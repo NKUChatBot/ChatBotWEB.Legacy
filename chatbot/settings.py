@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'hellodjango.urls'
+ROOT_URLCONF = 'chatbot.urls'
 
 TEMPLATES = [
     {
