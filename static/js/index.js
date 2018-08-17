@@ -432,7 +432,7 @@ var initLetterPool = function initLetterPool() {
 };
 
 var init = function init() {
-  setChatbotMood = setChatbotMood0() ;
+  setChatbotMood0();
   initLetterPool();
   sendChatbotMessage();
   toggleInput();
