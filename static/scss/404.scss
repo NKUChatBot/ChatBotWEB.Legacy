@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Black+Ops+One);
+
+* { box-sizing: border-box; }
+
+html, body {
+	background: hsla(0, 0%, 90%, 1);
+  width:100%; 
+  min-height:100%;
+	font-weight: bold;
+	font-size: 1em;
+  display:flex;
+  justify-content:center;
+  flex-direction:column;
+	font-family: 'Black Ops One', cursive;
+  user-select:none;
+}
+canvas{
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate( -50%, -50%);
+}
+.text .wrap {
+	fill: #FFF;
+}
+
+.overlay {
+	height: 0;
+	width: 0;
+	overflow: hidden;
+	position: absolute;
+  & .txt {
+    font-size: 14rem;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing:-.5rem;
+    text-shadow: 0 -3px 0 hsla(0, 0%, 5%, 1),
+    0 6px 8px  hsla(0, 0%, 5%, .55),
+    0 9px 10px  hsla(0, 0%, 5%, .25);
+  }
+  & .txt2{
+     font-size:4rem;
+  }
+}
+section{
+  align-self:center;
+}
+h1{
+	position: relative;
+	font-size: 8em;
+  font-weight:bold;
+	line-height: 1;
+	display: inline-block;
+  width: 900px;
+	height: 400px;
+  & .fill {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  & .inv {
+    position: absolute;
+    width: 900px;
+    height: 400px;
+    top: 0;
+    left: 0;
+  }
+  & .rect {
+    fill:hsla(0, 0%, 90%, 1);
+  }
+  & .clear {
+    fill:transparent;
+  }
+}
