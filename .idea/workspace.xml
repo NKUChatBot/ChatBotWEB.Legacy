@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99ed1acb-34c7-4729-b976-72e2c777d527" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/find_college/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find_college/findKey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local_scrap/who.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RunQA/RunQA.py" beforeDir="false" afterPath="$PROJECT_DIR$/RunQA/RunQA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatbot/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local_scrap/local_cc.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/local_scrap/local_cc.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local_scrap/local_cs.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/local_scrap/local_cs.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrap/college.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scrap/college.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrap/synonyms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scrap/synonyms.txt" afterDir="false" />
-    </list>
+    <list default="true" id="99ed1acb-34c7-4729-b976-72e2c777d527" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +56,7 @@
           <entry key="aiml" value="145" />
           <entry key="css" value="2" />
           <entry key="html" value="176" />
-          <entry key="py" value="1411" />
+          <entry key="py" value="1413" />
           <entry key="txt" value="55" />
         </counts>
       </usages-collector>
@@ -76,7 +65,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="176" />
           <entry key="PLAIN_TEXT" value="200" />
-          <entry key="Python" value="1455" />
+          <entry key="Python" value="1457" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -87,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RunQA/RunQA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+            <state relative-caret-position="285">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="e#237#246#0" expanded="true" />
               </folding>
@@ -451,12 +440,12 @@
     <frame x="0" y="32" width="1440" height="805" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.3015428" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.3015428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -735,8 +724,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RunQA/RunQA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="e#237#246#0" expanded="true" />
           </folding>
