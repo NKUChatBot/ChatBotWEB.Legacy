@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<meta name="language" content="zh"/>
+
+
+<category>
+<pattern>软件张三</pattern>
+<template>软件测试样例
+</template>
+</category>
+
+<category>
+<pattern>软件高铁杠</pattern>
+<template>所属部门: 软件工程系
+电子邮件: gaotiegang@nankai.edu.cn
+职 称: 教授
+学 历:  博士
+所学专业:  计算机应用技术
+研究方向:  信息安全、软件工程
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/2
+</template>
+</category>
+
+<category>
+<pattern>软件姜桂飞</pattern>
+<template>所属部门: 软件工程系
+电子邮件: G.Jiang@nankai.edu.cn
+职 称: 讲师
+学 历:  博士
+所学专业:  计算机科学
+研究方向:  人工智能，知识表示与推理
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/17
+</template>
+</category>
+<category>
+<pattern>软件刘明铭</pattern>
+<template>所属部门: 软件工程系
+电子邮件: liumingming@nankai.edu.cn
+职 称: 讲师
+学 历:  博士
+所学专业:  控制理论与控制工程
+研究方向:  数据库系统，教育信息化
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/4
+</template>
+</category>
+<category>
+<pattern>软件李旭东</pattern>
+<template>所属部门: 软件工程系
+电子邮件: leexudong@nankai.edu.cn
+职 称: 副教授
+学 历:  博士
+所学专业:  控制理论与控制科学
+研究方向:  软件体系架构，分布式计算
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/3
+</template>
+</category>
+<category>
+<pattern>软件马捷</pattern>
+<template>所属部门: 软件工程系
+电子邮件: majie1765@nankai.edu.cn
+职 称: 教授
+学 历:  本科
+所学专业:  计算机
+研究方向:  嵌入式系统、新媒体技术、软件工程
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/5
+</template>
+</category>
+<category>
+<pattern>软件马玲</pattern>
+<template>所属部门: 软件工程系
+电子邮件: maling@nankai.edu.cn
+职 称: 讲师
+学 历:  博士
+所学专业:  计算机应用技术
+研究方向:  医学图像处理与分析
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/18
+</template>
+</category>
+<category>
+<pattern>软件师文轩</pattern>
+<template>所属部门: 软件工程系
+办公电话: 13920561100
+电子邮件: shiwx@nankai.edu.cn
+职 称: 副教授
+学 历:  博士
+所学专业:  计算机应用技术
+研究方向:  数据挖掘、机器学习
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/6
+</template>
+</category>
+<category>
+<pattern>软件孙凤池</pattern>
+<template>所属部门: 软件工程系
+电子邮件: fengchisun@nankai.edu.cn
+职 称: 副教授
+学 历:  博士
+导师:  硕士导师
+所学专业:  控制理论与控制工程
+研究方向:  机器学习、智能机器人系统、模式识别与智能系统
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/7
+</template>
+</category>
+<category>
+<pattern>软件王斌辉</pattern>
+<template>所属部门: 软件工程系
+电子邮件: wangbh@nankai.edu.cn
+学 历:  博士
+导师:  硕士生导师
+所学专业: 
+研究方向:  数据挖掘、商务智能、人机交互、设计管理
+个人主页:  http://www.binhui.wang
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/8
+</template>
+</category>
+<category>
+<pattern>软件王超</pattern>
+<template>所属部门: 软件工程系
+电子邮件: wangchao@nankai.edu.cn
+职 称: 副研究员
+学 历:  博士
+导师:  硕士生导师
+所学专业:  应用数学
+研究方向:  理论计算机科学，计算机视觉，机器学习
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/9
+</template>
+</category>
+<category>
+<pattern>软件王靖</pattern>
+<template>所属部门: 软件工程系
+电子邮件: jingwang@nankai.edu.cn
+职 称: 副教授
+学 历:  博士
+所学专业:  电子与计算机工程
+研究方向:  计算机图形与图像
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/10
+</template>
+</category>
+
+<category>
+<pattern>软件谢茂强</pattern>
+<template>所属部门: 软件工程系
+电子邮件: xiemq@nankai.edu.cn
+行政职务:  副院长
+职 称: 副教授
+学 历:  博士
+所学专业:  计算机应用技术
+研究方向:  数据挖掘、生物信息
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/1
+</template>
+</category>
+<category>
+<pattern>软件张波</pattern>
+<template>所属部门: 软件工程系
+电子邮件: zhangbo_nk@163.com
+职 称: 教授
+学 历:  博士
+所学专业:  电子工程
+研究方向:  语音信号处理
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/11
+</template>
+</category>
+<category>
+<pattern>软件张圣林</pattern>
+<template>所属部门: 软件工程系
+电子邮件: zhangsl@nankai.edu.cn
+职 称: 讲师
+学 历:  博士
+所学专业:  计算机科学与技术
+研究方向:  数据挖掘，网络管理，数据中心
+个人主页:  http://nkcs.iops.ai/shenglinzhang/
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/16
+</template>
+</category>
+<category>
+<pattern>软件张玉志</pattern>
+<template>所属部门: 软件工程系
+电子邮件: zyz@nankai.edu.cn
+行政职务:  院长
+职 称: 教授
+学 历:  博士
+导师:  博士生导师
+所学专业:  计算机系程序(软件)专业
+研究方向:  人工智能
+
+
+想了解更多：http://cs.nankai.edu.cn/index.php/zh/2017-01-15-22-19-36/2017-01-15-22-20-52/techerinformation/20
+</template>
+</category>
+
+</aiml>

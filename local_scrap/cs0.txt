@@ -1,0 +1,1971 @@
+姓名：白刚
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：计算机应用，模式识别
+办公电话：23500132
+电子邮件：baigang@nankai.edu.cn
+研究方向：人工智能，机器学习，模式识别，计算机视觉
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=baig
+姓名：陈万义
+性 别：男
+所属部门：自动化与智能科学系
+职 称：教授
+学 历:博士
+所学专业：自动控制专业
+办公电话：未知
+电子邮件：wychen@nankai.edu.cn
+研究方向：鲁棒控制理论、金融数学与金融工程
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenwy
+姓名：陈增强
+性 别：男
+所属部门：自动化与智能科学系
+行政职务：副所长
+职 称：教授
+学 历:博士
+所学专业：控制
+办公电话：23508547
+电子邮件：chenzq@nankai.edu.cn
+研究方向：智能预测控制与智能优化计算、复杂系统建模优化与控制、多智能体系统与复杂网络、离散事件逻辑动态系统建模与分析
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenzq
+姓名：程明明
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：计算机科学与技术
+办公电话：85358570
+电子邮件：cmm@nankai.edu.cn
+研究方向：计算机视觉、人工智能、图像视频大数据分析、计算机图形学
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chengmm
+姓名：程仁洪
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:研究生
+所学专业：控制理论与控制工程
+办公电话：未知
+电子邮件：chengrh@nankai.edu.cn
+研究方向：数据库技术及应用,软件性能,智能控制与检测系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chengrh
+姓名：段峰
+性 别：男
+所属部门：自动化与智能科学系
+职 称：教授
+学 历:博士
+所学专业：精密机械
+办公电话：85358718
+电子邮件：duanf@nankai.edu.cn
+研究方向：机器人技术，肌电假手，康复机器人，机器人视觉，家庭服务机器人，人体技能分析
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=duanf
+姓名：方勇纯
+性 别：男
+所属部门：机器人与信息自动化研究所
+行政职务：院长
+职 称：教授
+学 历:博士
+所学专业：自动控制
+办公电话：23505706-802，85358689
+电子邮件：fangyc@nankai.edu.cn
+研究方向：机器人视觉控制；无人机；欠驱动吊车系统；微纳米操作
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=fangyc
+姓名：韩建达
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：教授
+学 历:博士
+所学专业：机器人与自动化
+办公电话：022 23505706-808
+电子邮件：hanjianda@nankai.edu.cn
+研究方向：机器人自主行为与人机协作/共融方法，医疗康复机器人、地面移动及飞行机器人技术与系统；详细请参见：http://robot.nankai.edu.cn/t/hanjd_research.pdf
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=hanjd
+姓名：贾春福
+性 别：男
+所属部门：计算机科学与信息安全系
+行政职务：副系主任
+职 称：教授
+学 历:博士
+所学专业：控制
+办公电话：未知
+电子邮件：cfjia@nankai.edu.cn
+研究方向：网络与信息安全；可信计算与软件安全；恶意代码分析; 密码应用技术
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=jiacf
+姓名：李庆诚
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：自动化
+办公电话：未知
+电子邮件：Liqch@nankai.edu.cn
+研究方向：嵌入式操作系统与信息安全
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liqc
+姓名：刘景泰
+性 别：男
+所属部门：机器人与信息自动化研究所
+行政职务：所长
+职 称：教授
+学 历:博士
+所学专业：自动化
+办公电话：23505706-801
+电子邮件：liujt@nankai.edu.cn;
+研究方向：机器人技术，计算机应用与信息自动化系统，智能科学与技术
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujt
+姓名：刘晓光
+性 别：男
+所属部门：计算机科学与信息安全系
+行政职务：副院长
+职 称：教授
+学 历:博士
+所学专业：计算机
+办公电话：23504780
+电子邮件：liuxg74 [AT] hotmail.com
+研究方向：云存储 搜索引擎 区块链系统 云计算/大数据平台 计算经济学
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuxg
+姓名：刘忠信
+性 别：男
+所属部门：自动化与智能科学系
+行政职务：系主任
+职 称：教授
+学 历:博士
+所学专业：控制理论与控制工程
+办公电话：022-23508547
+电子邮件：lzhx@nankai.edu.cn
+研究方向：多智能体系统，复杂动态网络，计算机控制与管理
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuzhx
+姓名：邵秀丽
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：计算机软件
+办公电话：办公室 计算机与控制工程楼407 85358270
+电子邮件：shaoxl@nankai.edu.cn
+研究方向：数据分析、智能系统、CSCW协同控制
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shaoxl
+姓名：孙明玮
+性 别：男
+所属部门：自动化与智能科学系
+职 称：教授
+学 历:博士
+所学专业：自动化
+办公电话：85358191
+电子邮件：smw_sunmingwei@163.com
+研究方向：预测控制、自抗扰控制、飞行器制导与控制和非线性优化等
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunmw
+姓名：孙青林
+性 别：男
+所属部门：自动化与智能科学系
+行政职务：实验中心主任
+职 称：教授
+学 历:博士
+所学专业：控制理论与控制工程
+办公电话：23508547
+电子邮件：sunql@nankai.edu.cn
+研究方向：自适应控制、嵌入式控制系统、柔性飞行器建模与控制
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunql
+姓名：王刚（计）
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：软件
+办公电话：23504780
+电子邮件：wgzwp@163.com
+研究方向：海量信息存储、并行与分布式计算
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangg
+姓名：卫金茂
+性 别：男
+所属部门：计算机科学与信息安全系
+行政职务：副所长
+职 称：教授
+学 历:博士
+所学专业：计算机应用
+办公电话：85358690(NA)
+电子邮件：weijm@nankai.edu.cn;
+研究方向：机器学习，数据挖掘，智能信息处理，生物信息学
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=weijm
+姓名：辛运帏
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：软件
+办公电话：未知
+电子邮件：xinyw@nankai.edu.cn
+研究方向：信息自动化 智能软件系统 数字医疗系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xinyw
+姓名：徐敬东
+性 别：女
+所属部门：计算机科学与信息安全系
+行政职务：系主任
+职 称：教授
+学 历:博士
+所学专业：计算机应用
+办公电话：85358865
+电子邮件：xujd@nankai.edu.cn
+研究方向：移动边缘计算、网络大数据分析、软件定义网络（SDN）、网络安全等
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xujd
+姓名：许静
+性 别：女
+所属部门：计算机科学与信息安全系
+行政职务：副系主任、所长
+职 称：教授
+学 历:博士
+所学专业：计算机应用
+办公电话：23500350
+电子邮件：xujing@nankai.edu.cn
+研究方向：软件工程、软件测试、软件安全
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuj
+姓名：杨愚鲁
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：计算机
+办公电话：未知
+电子邮件：yangyl@nankai.edu.cn
+研究方向：并行与分布式处理，系统结构，可重构系统，网格计算
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yangyl
+姓名：杨征路
+性 别：男
+所属部门：计算机科学与信息安全系
+行政职务：所长
+职 称：教授
+学 历:博士
+所学专业：计算机科学与信息安全系大数据技术研究所
+办公电话：85358477
+电子邮件：yangzl@nankai.edu.cn
+研究方向：人工智能，数据挖掘，信息检索
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yangzl
+姓名：袁晓洁
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：计算机软件
+办公电话：23509175
+电子邮件：yuanxj[at]nankai.edu.cn
+研究方向：数据库、知识工程、大数据技术、机器学习、Web检索与挖掘
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanxj
+姓名：张瀚
+性 别：男
+所属部门：自动化与智能科学系
+行政职务：副系主任
+职 称：教授
+学 历:博士
+所学专业：控制理论与控制工程
+办公电话：85358726
+电子邮件：zhanghan@nankai.edu.cn
+研究方向：机器学习与数据挖掘、信息安全、生物信息大数据分析与挖掘
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh
+姓名：张建勋
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：教授
+学 历:博士
+所学专业：自动控制理论与应用
+办公电话：23505706-805
+电子邮件：zhangjx@nankai.edu.cn
+研究方向：智能机器人控制、计算机网络与信息系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjx
+姓名：张建忠
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：计算机应用
+办公电话：未知
+电子邮件：zhangjz@nankai.edu.cn
+研究方向：网络大数据分析，网络安全，移动计算，软件定义网络（SDN）
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjz
+姓名：赵新
+性 别：男
+所属部门：机器人与信息自动化研究所
+行政职务：副院长
+职 称：教授
+学 历:博士
+所学专业：自控
+办公电话：23505706-803,85358825
+电子邮件：zhaoxin@nankai.edu.cn
+研究方向：微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox
+姓名：Jeffrey Too Chuan TAN
+性 别：男
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:博士
+所学专业：精密机械
+办公电话：022-85358718
+电子邮件：jeffrey@nankai.edu.cn
+研究方向：家庭服务机器人，人工智能，人机交互，机器人教育，信息物理系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=jeffrey
+姓名：Rebecca J.Stones
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：rebecca.stones82 AT gmail DOT com
+研究方向：组合优化、编码、信息安全
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=rebecca
+姓名：陈晨
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：nkchenchen at nankai dot edu dot cn
+研究方向：自然语言处理, 信息检索, 机器学习, 社会计算
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenchen
+姓名：丛跃进
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:硕士
+所学专业：机械
+办公电话：未知
+电子邮件：congyj@nankai.edu.cn
+研究方向：图像视频分析、环境智能监控、振动分析
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=congyj
+姓名：代煜
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：副教授
+学 历:博士
+所学专业：控制科学与工程
+办公电话：23505706-811
+电子邮件：daiyu@nankai.edu.cn
+研究方向：面向手术机器人的智能感知技术
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=daiyu
+姓名：宫晓利
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机应用技术
+办公电话：未知
+电子邮件：gongxiaoli (at) nankai (dot) edu (dot) cn
+研究方向：嵌入式系统，移动云计算，物联网
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=gongxl
+姓名：黄家友
+性 别：男
+所属部门：学院行政管理
+行政职务：党委书记
+职 称：副研究员
+学 历:硕士
+所学专业：行政管理
+办公电话：23502758
+电子邮件：huangjy@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=huangjy
+姓名：李彬
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：副研究员
+学 历:本科
+所学专业：机械
+办公电话：23505706-812
+电子邮件：libinnk@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lib
+姓名：李朝晖
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：自控
+办公电话：未知
+电子邮件：lizhaohui@nankai.edu.cn
+研究方向：信息安全、生物信息、图形图像处理
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lizh
+姓名：李涛
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机应用技术
+办公电话：022-23506776
+电子邮件：litao AT nankai dot edu dot cn
+研究方向：异构计算, 机器学习, 网络科学, 物联网
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lit
+姓名：李雨森
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机科学与技术
+办公电话：未知
+电子邮件：liyusen@nbjl.nankai.edu.cn
+研究方向：分布式系统，云计算
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liys
+姓名：李岳
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机
+办公电话：未知
+电子邮件：liyue80@nankai.edu.cn
+研究方向：图像处理、计算机视觉、计算机安全、软件工程
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liyue
+姓名：李忠伟
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机应用技术
+办公电话：23504780
+电子邮件：lizhongwei@nankai.edu.cn
+研究方向：数据库与知识库、机器学习
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lizw
+姓名：刘杰
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机科学与技术
+办公电话：未知
+电子邮件：jliu@nankai.edu.cn
+研究方向：机器学习；数据挖掘；大数据分析
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujie
+姓名：刘哲理
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：信息安全
+办公电话：未知
+电子邮件：liuzheli@nankai.edu.cn
+研究方向：信息安全;密态数据库;渗透测试;隐私保护;区块链
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuzl
+姓名：卢少平
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机应用技术
+办公电话：未知
+电子邮件：slu@nankai.edu.cn
+研究方向：可视计算、图形学与视觉、图像视频处理、机器学习
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lusp
+姓名：倪元华
+性 别：男
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：yhni@nankai.edu.cn
+研究方向：随机控制、最优控制、金融工程
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=niyh
+姓名：秦岩丁
+性 别：男
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:博士
+所学专业：智能科学与技术
+办公电话：022 23503960-803
+电子邮件：qinyd@nankai.edu.cn
+研究方向：微/纳操作机器人、超精密定位系统、气动人工肌肉、3D生物打印
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=qinyd
+姓名：饶一梅
+性 别：女
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:博士
+所学专业：控制
+办公电话：85358726
+电子邮件：raoyimei@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=raoym
+姓名：沈祖庭
+性 别：女
+所属部门：学院行政管理
+行政职务：副院长
+职 称：副研究员
+学 历:研究生
+所学专业：行政管理
+办公电话：23505768
+电子邮件：shenzt@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shenzt
+姓名：史广顺
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：控制理论与控制工程
+办公电话：未知
+电子邮件：gsshi@nankai.edu.cn
+研究方向：模式识别与机器智能、数字图像处理、自然语言理解、软件开发技术
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shigs
+姓名：宋起泉
+性 别：男
+所属部门：实验教学中心
+职 称：副研究员
+学 历:本科
+所学专业：图书馆学
+办公电话：85358556
+电子邮件：gx@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=songqq
+姓名：苏明
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副研究员
+学 历:博士
+所学专业：计算机与信息安全
+办公电话：未知
+电子邮件：suming@nankai.edu.cn
+研究方向：数字版权管理，序列设计，数字水印，信息论与编码
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=suming
+姓名：孙广毅
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：副教授
+学 历:博士
+所学专业：自动化
+办公电话：未知
+电子邮件：未知
+研究方向：微机电系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sungy
+姓名：孙雷
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：副教授
+学 历:博士
+所学专业：控制理论与控制工程
+办公电话：23505706-813
+电子邮件：sunl@nankai.edu.cn
+研究方向：Intelligent robot system, networked robot, trajectory planning, and robot simulation
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunl
+姓名：孙宁
+性 别：男
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:未知
+所学专业：控制理论与控制工程
+办公电话：23503960-804
+电子邮件：sunn@nankai.edu.cn
+研究方向：陆地/船用吊车(起重机)自动控制，欠驱动机器人，机电系统控制
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunning
+姓名：王鸿鹏
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：副教授
+学 历:博士
+所学专业：智能科学与技术
+办公电话：23505706-815
+电子邮件：hpwang@nankai.edu.cn, hopwang@gmail.com
+研究方向：机器人与智能系统, 云/网络/遥操作机器人, 野外与空中机器人， 虚拟/增强现实, 人工智能, 自然生态环境智能化监测
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wanghp
+姓名：王娟
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:硕士
+所学专业：计算机
+办公电话：未知
+电子邮件：juanwang@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangj
+姓名：王恺
+性 别：男
+所属部门：公共计算机基础教学部
+行政职务：基础教学部副主任
+职 称：副教授
+学 历:博士
+所学专业：控制理论与控制工程
+办公电话：未知
+电子邮件：wangk@nankai.edu.cn
+研究方向：机器学习，计算机视觉
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangk
+姓名：王玮
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：生命信息系统科学
+办公电话：未知
+电子邮件：kevinwangwei@nankai.edu.cn
+研究方向：图像处理与检索；智能信息处理、算法分析与设计；交叉学科研究
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangwei
+姓名：吴民
+性 别：男
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:博士
+所学专业：自动控制
+办公电话：未知
+电子邮件：wumin@nankai.edu.cn
+研究方向：通信网络，Linux/Unix软件开发，物流和供应链管理
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wum
+姓名：吴英
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机
+办公电话：未知
+电子邮件：wuying@nankai.edu.cn
+研究方向：车联网、物联网相关安全研究
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wuying
+姓名：邢树松
+性 别：男
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:博士
+所学专业：机器人
+办公电话：未知
+电子邮件：xings@nankai.edu.cn
+研究方向：人机交互，机器人
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xingss
+姓名：徐颖
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：副教授
+学 历:硕士
+所学专业：人工智能
+办公电话：未知
+电子邮件：xuying@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuy
+姓名：许林
+性 别：男
+所属部门：机器人与信息自动化研究所
+行政职务：副系主任
+职 称：副教授
+学 历:博士
+所学专业：控制理论与控制工程
+办公电话：23505706-816
+电子邮件：xul@nankai.edu.cn
+研究方向：机电一体化、MEMS（微机电系统）、无线传感网络
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xulin
+姓名：杨巨峰
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机
+办公电话：未知
+电子邮件：yangjufeng [AT] nankai.edu.cn
+研究方向：计算机视觉、机器学习、多媒体计算、视觉大数据
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yangjf
+姓名：殷爱茹
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机
+办公电话：未知
+电子邮件：yinar@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yinar
+姓名：于宁波
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：副教授
+学 历:博士
+所学专业：机器人
+办公电话：+86 (22) 23503960-801
+电子邮件：nyu AT nankai.edu.cn
+研究方向：机器人与智能系统, 人与机器人的交互、协作与控制, 康复训练、医疗辅助和智能服务机器人
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=nyu
+姓名：苑晶
+性 别：男
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:博士
+所学专业：控制理论与控制工程
+办公电话：未知
+电子邮件：nkyuanjing@gmail.com
+研究方向：机器人控制、移动机器人导航、SLAM、多机器人系统、目标跟踪
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanjing
+姓名：张春燕
+性 别：女
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:未知
+所学专业：自动化
+办公电话：未知
+电子邮件：zhcy@nankai.edu.cn
+研究方向：多机器人系统决策与任务分配，集群行为与群体智能，谣言/观点/疾病传播动力学，群体博弈与合作
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangcy
+姓名：张金
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机应用技术
+办公电话：未知
+电子邮件：nkzhangjin@nankai.edu.cn
+研究方向：人工智能与自然语言处理,互联网金融;认知科学与脑计算;物联网与云计算;
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjin
+姓名：张娟娟
+性 别：女
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:博士
+所学专业：未知
+办公电话：022-23503960-805
+电子邮件：juanjuanzhang@nankai.edu.cn
+研究方向：下肢外骨骼机器人
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjj
+姓名：张雪波
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：副教授
+学 历:博士
+所学专业：控制理论与工程
+办公电话：23505706-809
+电子邮件：zhangxuebo@nankai.edu.cn
+研究方向：移动机器人学，视觉伺服，运动规划，无人车自主导航，多摄像机网络。
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangxb
+姓名：张莹
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机应用技术
+办公电话：未知
+电子邮件：yingzhang@nankai.edu.cn
+研究方向：自然语言处理、人工智能、数据挖掘、机器学习
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangying
+姓名：张玉
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：信息安全
+办公电话：未知
+电子邮件：zhangyu1981@nankai.edu.cn
+研究方向：计算机网络与信息安全
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyu
+姓名：赵宏
+性 别：女
+所属部门：公共计算机基础教学部
+行政职务：基础教学部主任
+职 称：副教授
+学 历:博士
+所学专业：软件
+办公电话：022-23502290
+电子邮件：zhaoh@nankai.edu.cn
+研究方向：智能计算及应用、环境大数据挖掘、环境保护科学技术研发
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaoh
+姓名：周环
+性 别：女
+所属部门：学院行政管理
+行政职务：办公室主任
+职 称：副研究员
+学 历:未知
+所学专业：国际经贸关系
+办公电话：23503438
+电子邮件：zhouhuan@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhouhuan
+姓名：别东洋
+性 别：男
+所属部门：自动化与智能科学系
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：未知
+研究方向：模块化机器人、医疗机器人
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=bdyang
+姓名：蔡庆琼
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：caiqingqiong@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=caiqq
+姓名：高裴裴
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：讲师
+学 历:博士
+所学专业：计算机
+办公电话：未知
+电子邮件：watersky@nankai.edu.cn
+研究方向：情感计算，语音合成
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=gaopp
+姓名：古力
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:博士
+所学专业：光学工程
+办公电话：未知
+电子邮件：guli@nankai.edu.cn
+研究方向：主要从事混沌密码学和混沌Hash函数方面的研究
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=gul
+姓名：郭宪
+性 别：男
+所属部门：自动化与智能科学系
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：guoxian@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guoxian
+姓名：过辰楷
+性 别：男
+所属部门：公共计算机基础教学部
+职 称：讲师
+学 历:未知
+所学专业：未知
+办公电话：未知
+电子邮件：chenkai.guo@163.com
+研究方向：软件工程、程序分析、移动应用分析
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guock
+姓名：韩玲
+性 别：女
+所属部门：学院行政管理
+行政职务：党委副书记、副院长
+职 称：讲师
+学 历:本科
+所学专业：思想政治教育
+办公电话：23504951
+电子邮件：hanling@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=hanling
+姓名：康宏
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:博士
+所学专业：计算机
+办公电话：未知
+电子邮件：kanghong@nankai.edu.cn
+研究方向：数据库技术，中间件技术，J2EE
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=kangh
+姓名：李敏
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：讲师
+学 历:博士
+所学专业：自控
+办公电话：13820318223
+电子邮件：limintj@nankai.edu.cn
+研究方向：信息安全；密码学应用
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lim
+姓名：李兴娟
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:硕士
+所学专业：控制理论与控制工程
+办公电话：未知
+电子邮件：lxjuan@nankai.edu.cn
+研究方向：网络安全, 无线和移动网络，应用系统开发
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lixj
+姓名：梁潇
+性 别：男
+所属部门：自动化与智能科学系
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：liangx@nankai.edu.cn; liangx@mail.nankai.edu.cn
+研究方向：旋翼无人飞行器运动控制，飞行吊运系统，飞行机械臂系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liangxiao
+姓名：蒲凌君
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:未知
+所学专业：计算机应用技术
+办公电话：未知
+电子邮件：pulingjun@nankai.edu.cn
+研究方向：Emerging and Advanced Network Framework for Edge+IoT+AI
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=pulj
+姓名：全雄文
+性 别：男
+所属部门：自动化与智能科学系
+职 称：讲师
+学 历:博士
+所学专业：控制理论与控制工程
+办公电话：23507780
+电子邮件：quanxw@nankai.edu.cn
+研究方向：优化理论与应用，供应链管理，管理信息系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=quanxw
+姓名：任博
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：85358095
+电子邮件：rb@nankai.edu.cn
+研究方向：真实感模拟与渲染，三维重建，几何模型处理
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=renbo
+姓名：任明明
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:博士
+所学专业：数学
+办公电话：23504780
+电子邮件：rmingming at nankai_edu_cn
+研究方向：并行计算、复杂系统模拟
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=renmm
+姓名：沈玮
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:未知
+所学专业：未知
+办公电话：未知
+电子邮件：shenwei@nankai.edu.cn
+研究方向：数据挖掘，大数据分析，万维网数据管理
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shenwei
+姓名：宋春瑶
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:博士
+所学专业：Computer Science
+办公电话：未知
+电子邮件：chunyao.song@nankai.edu.cn
+研究方向：数据库系统及管理，不确定数据，数据流，科学数据库，图数据，大数据。
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=songcy
+姓名：孙明竹
+性 别：女
+所属部门：机器人与信息自动化研究所
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：23503960-802
+电子邮件：sunmz@nankai.edu.cn
+研究方向：微操作机器人，显微视觉，生物目标视觉跟踪，生物模式形成建模与仿真
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunmz
+姓名：王刚
+性 别：男
+所属部门：公共计算机基础教学部
+职 称：讲师
+学 历:博士
+所学专业：自控
+办公电话：未知
+电子邮件：ganggang@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wgang
+姓名：王志
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:博士
+所学专业：信息安全
+办公电话：未知
+电子邮件：zwang@nankai.edu.cn
+研究方向：计算机恶意代码分析
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangz
+姓名：许昱玮
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：xuyw@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuyuwei
+姓名：于刚
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:博士
+所学专业：通信与信息系统
+办公电话：未知
+电子邮件：yugang@nankai.edu.cn
+研究方向：计算机网络 P2P系统及应用
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yugang
+姓名：张海威
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：zhhaiwei@nankai.edu.cn
+研究方向：数据库、数据挖掘、XML数据管理
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhhaiwei
+姓名：张建磊
+性 别：男
+所属部门：自动化与智能科学系
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：jianleizhang@nankai.edu.cn
+研究方向：人工智能与群体智能 演化博弈理论与深度学习 网络博弈与神经网络 无人机系统智能控制 多机器人系统的协调与控制 网络化控制系统的分析与综合 集群行为与集群智能 演化博弈与群体决策
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjl
+姓名：张健
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：讲师
+学 历:博士
+所学专业：软件
+办公电话：未知
+电子邮件：bfb@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangj
+姓名：包秀娟
+性 别：女
+所属部门：实验教学中心
+职 称：助理实验师
+学 历:研究生
+所学专业：未知
+办公电话：85358661
+电子邮件：baoxiujuan2008@163.com
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=baoxj
+姓名：陈金志
+性 别：男
+所属部门：自动化与智能科学系
+职 称：实验师
+学 历:博士
+所学专业：自控
+办公电话：未知
+电子邮件：chenjz@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenjz
+姓名：陈景林
+性 别：男
+所属部门：公共计算机基础教学部
+职 称：高级工程师
+学 历:本科
+所学专业：机械
+办公电话：022-23508410
+电子邮件：cjlcjl@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenjl
+姓名：董前琨
+性 别：男
+所属部门：实验教学中心
+职 称：助理实验师
+学 历:研究生
+所学专业：计算机科学与技术
+办公电话：未知
+电子邮件：qiankund@nankai.edu.cn
+研究方向：并行与分布式处理
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=dongqk
+姓名：郭天勇
+性 别：男
+所属部门：公共计算机基础教学部
+职 称：高级实验师
+学 历:未知
+所学专业：未知
+办公电话：未知
+电子邮件：guoty@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guoty
+姓名：郭蕴
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：助理实验师
+学 历:未知
+所学专业：未知
+办公电话：022-23508410
+电子邮件：guoyun@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guoy
+姓名：黄大刚
+性 别：男
+所属部门：实验教学中心
+行政职务：实验中心副主任
+职 称：高级工程师
+学 历:本科
+所学专业：光学
+办公电话：23505171
+电子邮件：huangdagang@nankai.edu.cn
+研究方向：控制科学与工程(检测技术与自动化装置),光学工程,仪器科学与技术(测试计量技术及仪器)
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=huangdg
+姓名：康介恢
+性 别：男
+所属部门：实验教学中心
+职 称：助理实验师
+学 历:硕士
+所学专业：计算机应用
+办公电话：未知
+电子邮件：kangjiehui@nankai.edu.cn
+研究方向：软件理论与测试
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=kangjh
+姓名：李妍
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：实验师
+学 历:未知
+所学专业：未知
+办公电话：022-23508410
+电子邮件：liyan081306@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liyan
+姓名：林浩
+性 别：男
+所属部门：实验教学中心
+职 称：工程师
+学 历:本科
+所学专业：应用
+办公电话：未知
+电子邮件：karlin@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=linh
+姓名：刘嘉欣
+性 别：男
+所属部门：实验教学中心
+行政职务：实验中心副主任
+职 称：高级实验师
+学 历:本科
+所学专业：软件
+办公电话：未知
+电子邮件：liujx@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujx
+姓名：刘瑞琴
+性 别：女
+所属部门：实验教学中心
+职 称：工程师
+学 历:本科
+所学专业：计应用
+办公电话：23500526
+电子邮件：dragon@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liurq
+姓名：刘爽
+性 别：男
+所属部门：公共计算机基础教学部
+职 称：工程师
+学 历:本科
+所学专业：应用
+办公电话：022-23508410
+电子邮件：shuangliu@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lius
+姓名：卢冶
+性 别：男
+所属部门：实验教学中心
+职 称：实验师
+学 历:博士
+所学专业：计算机应用技术
+办公电话：未知
+电子邮件：luye@nankai.edu.cn
+研究方向：边缘计算;物联网; 嵌入式系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=luye
+姓名：路明晓
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：助理实验师
+学 历:未知
+所学专业：未知
+办公电话：022-23508410
+电子邮件：lumx@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lumx
+姓名：乜鹏
+性 别：男
+所属部门：实验教学中心
+职 称：助理实验师
+学 历:研究生
+所学专业：软件工程
+办公电话：13602157486
+电子邮件：niepeng@nankai.edu.cn
+研究方向：软件工程
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=niep
+姓名：孙月
+性 别：女
+所属部门：实验教学中心
+职 称：助理实验师
+学 历:未知
+所学专业：未知
+办公电话：未知
+电子邮件：yuesun@nankai.edu.cn
+研究方向：机器人技术
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=suny
+姓名：王冬梅
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：高级实验师
+学 历:本科
+所学专业：未知
+办公电话：022-23508410
+电子邮件：wangdongmei@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangdm
+姓名：王晓娜
+性 别：女
+所属部门：自动化与智能科学系
+职 称：工程师
+学 历:大专
+所学专业：电子与信息
+办公电话：23505706-806
+电子邮件：wangxn@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangxn
+姓名：温延龙
+性 别：男
+所属部门：计算机科学与信息安全系
+行政职务：系主任助理
+职 称：高级实验师
+学 历:博士
+所学专业：计算机应用技术
+办公电话：85358995
+电子邮件：wenyl@nankai.edu.cn
+研究方向：数据库技术、信息检索
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wenyl
+姓名：徐宁
+性 别：女
+所属部门：实验教学中心
+职 称：高级工程师
+学 历:本科
+所学专业：计应用
+办公电话：85358936
+电子邮件：xuning@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xun
+姓名：许丽
+性 别：女
+所属部门：实验教学中心
+职 称：实验师
+学 历:硕士
+所学专业：未知
+办公电话：23505171
+电子邮件：xuli@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuli
+姓名：闫晓玉
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：助理实验师
+学 历:硕士
+所学专业：未知
+办公电话：未知
+电子邮件：18653725347@139.com
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yanxy
+姓名：张彪
+性 别：男
+所属部门：实验教学中心
+职 称：助理实验师
+学 历:研究生
+所学专业：未知
+办公电话：23498953
+电子邮件：zhangbiao@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangbiao
+姓名：张涛
+性 别：男
+所属部门：实验教学中心
+职 称：助理实验师
+学 历:研究生
+所学专业：未知
+办公电话：85358936
+电子邮件：zhangt@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangtao
+姓名：张小林
+性 别：男
+所属部门：实验教学中心
+职 称：高级实验师
+学 历:未知
+所学专业：物理系
+办公电话：23498953
+电子邮件：zhangxl@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangxl
+姓名：周璐
+性 别：女
+所属部门：自动化与智能科学系
+行政职务：系主任助理
+职 称：实验师
+学 历:硕士
+所学专业：未知
+办公电话：23505706-806
+电子邮件：zhoulu@nankai.edu.cn
+研究方向：模式识别与智能系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhoulu
+姓名：朱美玲
+性 别：女
+所属部门：公共计算机基础教学部
+职 称：工程师
+学 历:大专
+所学专业：计算机
+办公电话：022-23503590
+电子邮件：zhml@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhuml
+姓名：于宁波
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：副教授
+学 历:博士
+所学专业：机器人
+办公电话：+86 (22) 23503960-801
+电子邮件：nyu AT nankai.edu.cn
+研究方向：机器人与智能系统, 人与机器人的交互、协作与控制, 康复训练、医疗辅助和智能服务机器人
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=nyu
+姓名：方勇纯
+性 别：男
+所属部门：机器人与信息自动化研究所
+行政职务：院长
+职 称：教授
+学 历:博士
+所学专业：自动控制
+办公电话：23505706-802，85358689
+电子邮件：fangyc@nankai.edu.cn
+研究方向：机器人视觉控制；无人机；欠驱动吊车系统；微纳米操作
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=fangyc
+姓名：刘杰
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机科学与技术
+办公电话：未知
+电子邮件：jliu@nankai.edu.cn
+研究方向：机器学习；数据挖掘；大数据分析
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujie
+姓名：赵新
+性 别：男
+所属部门：机器人与信息自动化研究所
+行政职务：副院长
+职 称：教授
+学 历:博士
+所学专业：自控
+办公电话：23505706-803,85358825
+电子邮件：zhaoxin@nankai.edu.cn
+研究方向：微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox
+姓名：秦岩丁
+性 别：男
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:博士
+所学专业：智能科学与技术
+办公电话：022 23503960-803
+电子邮件：qinyd@nankai.edu.cn
+研究方向：微/纳操作机器人、超精密定位系统、气动人工肌肉、3D生物打印
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=qinyd
+姓名：赵新
+性 别：男
+所属部门：机器人与信息自动化研究所
+行政职务：副院长
+职 称：教授
+学 历:博士
+所学专业：自控
+办公电话：23505706-803,85358825
+电子邮件：zhaoxin@nankai.edu.cn
+研究方向：微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox
+姓名：王鸿鹏
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：副教授
+学 历:博士
+所学专业：智能科学与技术
+办公电话：23505706-815
+电子邮件：hpwang@nankai.edu.cn, hopwang@gmail.com
+研究方向：机器人与智能系统, 云/网络/遥操作机器人, 野外与空中机器人， 虚拟/增强现实, 人工智能, 自然生态环境智能化监测
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wanghp
+姓名：刘晓光
+性 别：男
+所属部门：计算机科学与信息安全系
+行政职务：副院长
+职 称：教授
+学 历:博士
+所学专业：计算机
+办公电话：23504780
+电子邮件：liuxg74 [AT] hotmail.com
+研究方向：云存储 搜索引擎 区块链系统 云计算/大数据平台 计算经济学
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuxg
+姓名：孙宁
+性 别：男
+所属部门：自动化与智能科学系
+职 称：副教授
+学 历:未知
+所学专业：控制理论与控制工程
+办公电话：23503960-804
+电子邮件：sunn@nankai.edu.cn
+研究方向：陆地/船用吊车(起重机)自动控制，欠驱动机器人，机电系统控制
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunning
+姓名：袁晓洁
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：计算机软件
+办公电话：23509175
+电子邮件：yuanxj[at]nankai.edu.cn
+研究方向：数据库、知识工程、大数据技术、机器学习、Web检索与挖掘
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanxj
+
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/teachers/PostDoctor.aspx#
+姓名：方勇纯
+性 别：男
+所属部门：机器人与信息自动化研究所
+行政职务：院长
+职 称：教授
+学 历:博士
+所学专业：自动控制
+办公电话：23505706-802，85358689
+电子邮件：fangyc@nankai.edu.cn
+研究方向：机器人视觉控制；无人机；欠驱动吊车系统；微纳米操作
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=fangyc
+
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/teachers/PostDoctor.aspx#
+姓名：张建勋
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：教授
+学 历:博士
+所学专业：自动控制理论与应用
+办公电话：23505706-805
+电子邮件：zhangjx@nankai.edu.cn
+研究方向：智能机器人控制、计算机网络与信息系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjx
+
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/teachers/PostDoctor.aspx#
+姓名：王刚
+性 别：男
+所属部门：公共计算机基础教学部
+职 称：讲师
+学 历:博士
+所学专业：自控
+办公电话：未知
+电子邮件：ganggang@nankai.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wgang
+姓名：张玉
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：信息安全
+办公电话：未知
+电子邮件：zhangyu1981@nankai.edu.cn
+研究方向：计算机网络与信息安全
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyu
+姓名：张建忠
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：计算机应用
+办公电话：未知
+电子邮件：zhangjz@nankai.edu.cn
+研究方向：网络大数据分析，网络安全，移动计算，软件定义网络（SDN）
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjz
+姓名：代煜
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：副教授
+学 历:博士
+所学专业：控制科学与工程
+办公电话：23505706-811
+电子邮件：daiyu@nankai.edu.cn
+研究方向：面向手术机器人的智能感知技术
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=daiyu
+姓名：张建勋
+性 别：男
+所属部门：机器人与信息自动化研究所
+职 称：教授
+学 历:博士
+所学专业：自动控制理论与应用
+办公电话：23505706-805
+电子邮件：zhangjx@nankai.edu.cn
+研究方向：智能机器人控制、计算机网络与信息系统
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjx
+姓名：张金
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：副教授
+学 历:博士
+所学专业：计算机应用技术
+办公电话：未知
+电子邮件：nkzhangjin@nankai.edu.cn
+研究方向：人工智能与自然语言处理,互联网金融;认知科学与脑计算;物联网与云计算;
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjin
+姓名：浅间一
+性 别：男
+所属部门：兼职博士生导师
+职 称：讲座教授
+学 历:博士
+所学专业：机器人
+办公电话：022-23508547
+电子邮件：190859741@qq.com
+研究方向：核电站安全检测与救灾机器人，脑机接口技术，服务机器人，人工智能，机器人技术
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=qjy
+姓名：张海威
+性 别：男
+所属部门：计算机科学与信息安全系
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：未知
+电子邮件：zhhaiwei@nankai.edu.cn
+研究方向：数据库、数据挖掘、XML数据管理
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhhaiwei
+姓名：赵新
+性 别：男
+所属部门：机器人与信息自动化研究所
+行政职务：副院长
+职 称：教授
+学 历:博士
+所学专业：自控
+办公电话：23505706-803,85358825
+电子邮件：zhaoxin@nankai.edu.cn
+研究方向：微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox
+姓名：孙明竹
+性 别：女
+所属部门：机器人与信息自动化研究所
+职 称：讲师
+学 历:博士
+所学专业：未知
+办公电话：23503960-802
+电子邮件：sunmz@nankai.edu.cn
+研究方向：微操作机器人，显微视觉，生物目标视觉跟踪，生物模式形成建模与仿真
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunmz
+姓名：袁晓洁
+性 别：女
+所属部门：计算机科学与信息安全系
+职 称：教授
+学 历:博士
+所学专业：计算机软件
+办公电话：23509175
+电子邮件：yuanxj[at]nankai.edu.cn
+研究方向：数据库、知识工程、大数据技术、机器学习、Web检索与挖掘
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanxj
+
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/teachers/PostDoctor.aspx#
+姓名：陈增强
+性 别：男
+所属部门：自动化与智能科学系
+行政职务：副所长
+职 称：教授
+学 历:博士
+所学专业：控制
+办公电话：23508547
+电子邮件：chenzq@nankai.edu.cn
+研究方向：智能预测控制与智能优化计算、复杂系统建模优化与控制、多智能体系统与复杂网络、离散事件逻辑动态系统建模与分析
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenzq
+
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/teachers/AdjunctProfessor.aspx#
+
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/teachers/AdjunctProfessor.aspx#
+姓名：谭永红
+性 别：男
+所属部门：兼职博士生导师
+职 称：兼职教授
+学 历:博士
+所学专业：自动化与控制工程系电机工程
+办公电话：021-57122955
+电子邮件：tany@shnu.edu.cn
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=tanyh
+姓名：张玉军
+性 别：男
+所属部门：兼职博士生导师
+职 称：兼职教授
+学 历:未知
+所学专业：计算机系统结构
+办公电话：未知
+电子邮件：zhangyj@nankai.edu.cn
+研究方向：计算机网络，未来网络，网络安全
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyj
+
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/teachers/AdjunctProfessor.aspx#
+
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/teachers/AdjunctProfessor.aspx#
+姓名：周明
+性 别：男
+所属部门：兼职博士生导师
+职 称：兼职教授
+学 历:博士
+所学专业：计算机科学与技术
+办公电话：未知
+电子邮件：未知
+研究方向：机器翻译、自然语言处理
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhouming
+姓名：张永铮
+性 别：男
+所属部门：兼职博士生导师
+职 称：兼职教授
+学 历:未知
+所学专业：未知
+办公电话：未知
+电子邮件：zhangyu1981@nankai.edu.cn
+研究方向：网络安全
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyz
+姓名：高雨青
+性 别：女
+所属部门：兼职博士生导师
+职 称：客座教授
+学 历:未知
+所学专业：计算机，认知计算
+办公电话：未知
+电子邮件：未知
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=Gaoyq
+姓名：沈晓卫
+性 别：男
+所属部门：兼职博士生导师
+职 称：客座教授
+学 历:未知
+所学专业：计算机，物联网
+办公电话：未知
+电子邮件：未知
+研究方向：
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=Shenxw
+姓名：陈云霁
+性 别：男
+所属部门：兼职博士生导师
+职 称：未知
+学 历:未知
+所学专业：未知
+办公电话：未知
+电子邮件：未知
+研究方向：微体系结构 机器学习 并行计算 视频处理
+
+
+想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenyunji
