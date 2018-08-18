@@ -1,3 +1,6 @@
+﻿import QQChat
+print(QQChat.respond(question))
+
 #
 #
 # def major(question):
