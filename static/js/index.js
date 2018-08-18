@@ -30,12 +30,6 @@ var checkMessageColumnHeight = function checkMessageColumnHeight() {
   }
 };
 
-
-var initLetterPool = function initLetterPool() {
-  clearLetterPool();
-  fillLetterPool(STATE.nLetterSets);
-};
-
 var init = function init() {
   setChatbotMood0();
   initLetterPool();
@@ -44,28 +38,6 @@ var init = function init() {
   setMoodInterval(getRandMoodInterval());
 };
 
-var resetTimeout = null;
-var resetLetterPool = function resetLetterPool() {
-  var intervals = STATE.letterPool.intervals;
-  for (var i = 0; i < intervals.length; i++) {
-    clearInterval(intervals[i]);
-  }
-  clearTimeout(resetTimeout);
-  clearLetterPool();
-  resetTimeout = setTimeout(function () {
-    initLetterPool();
-  }, 200);
-};
-
-
-
-var isValidLetter = function isValidLetter(e) {
-  return !e.ctrlKey &&
-  e.key !== 'Enter' &&
-  e.keyCode !== 8 &&
-  e.keyCode !== 9 &&
-  e.keyCode !== 13;
-};
 
 
 $("#message-input-field").onkeypress = function (e) {

@@ -21,7 +21,7 @@ MessageViewer.prototype.createChatMessage = function(){
 
 MessageViewer.prototype.addChatMessage = function(Animation1, Animation2){
     $('#chat-message-column').append(this.message);
-    toggleInput();
+    //toggleInput();
     setTimeout(function(){
         this.profileIcon.removeClass('invisible') && setTimeout(function () {
             this.MessageBox.removeClass('invisible') && setTimeout(function () {

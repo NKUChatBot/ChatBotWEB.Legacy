@@ -1,13 +1,13 @@
 
 function TypingListener() {
+    this.input = $("#message-input");
     this.field = $("#message-input-field");
-    this.chatbot = new ChatbotManager();
-    this.chatbot.startRandMood();
+    this.InvalidKey = ['Enter', 8, 9, 13];
 }
 
-TypingListener.prototype.clearInputField = function () {
-
-}
+TypingListener.prototype.checkIfInputFieldHasVal = function () {
+    return this.field.value.length > 0;
+};
 
 TypingListener.prototype.disableInputField = function () {
     this.field.blur();
@@ -22,14 +22,26 @@ TypingListener.prototype.enableInputField = function () {
     return this;
 };
 
-TypingListener.prototype.onEnterPress = function (e) {
-    let sender = new MessageSender(this.field.value);
-    sender.sendUserMessage();
-    setTimeout(function () {
-        sender.sendChatbotMessage(this.chatbot.CurrentMood);
-    }, 4000);
-    toggleInput();
-    this.field.value = '';
-    return this;
+TypingListener.prototype.isValidLetter = function (e) {
+    return !(e.ctrlKey || this.InvalidKey.includes(e.key));
 };
 
+TypingListener.prototype.startListen = function(chatbot){
+    let self = this;
+    this.field.onkeypress = function (e) {
+        e.key === 'Enter' && (function () {
+            self.input.removeClass('send-enabled');
+
+            let sender = new MessageSender(self.field.value);
+            self.field.value = "";
+            sender.sendUserMessage();
+            setTimeout(function () {
+                sender.askChatbot();
+                sender.sendChatbotMessage(chatbot.CurrentMood);
+            }, 4000);
+
+            self.input.addClass("send-enabled");
+        })();
+    };
+    return this;
+};

@@ -2,6 +2,8 @@
 function ChatbotManager(minInterval=20000, maxInterval=40000){
     this.ProbMoodSet = ['friendly', 'confused', 'boastful'];
     this.CurrentMood = 'friendly';
+    this.startRandMood();
+
     this.minInterval = minInterval;
     this.maxInterval = maxInterval;
     this.intervalHandler = null;

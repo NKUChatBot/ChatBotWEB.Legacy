@@ -3,6 +3,9 @@ function PoolManager(alphabetNum) {
     this.alphabetNum = alphabetNum || 1;
     this.alphabetSet = [].concat(this.LAlphabet, this.UAlphabet, this.ZHAlphabet);
     this.letterPool = [];
+
+    let self = this;
+    self.fillLetterPool();
 }
 
 PoolManager.prototype.LAlphabet = 'abcdefghijklmnopqrstuvwxyz'.split('');
