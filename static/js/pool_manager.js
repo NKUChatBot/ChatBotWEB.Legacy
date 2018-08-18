@@ -15,7 +15,8 @@ PoolManager.prototype.ZHAlphabet = '南开你好很高兴见到我'.split('');
 
 PoolManager.prototype.setPoolLetterPaths = function(addLetter=[]){
     this.letterPool = this.letterPool.concat(addLetter);
-    (addLetter===[] ? this.letterPool : addLetter).forEach(function (controller) {
+
+    ((addLetter.length === 0) ? this.letterPool : addLetter).forEach(function (controller) {
         controller.setRandPostion(false).setRandTransition();
         setTimeout(function () {
             controller.setRandPostion(true).viewer.removeClass('invisible');
@@ -29,10 +30,12 @@ PoolManager.prototype.setPoolLetterPaths = function(addLetter=[]){
 
 PoolManager.prototype.fillLetterPool = function () {
     let self = this;
-    for(let i = 0; i < this.alphabetNum || 1; i++)
+    for(let i = 0; i < (this.alphabetNum || 1); i++) {
         this.alphabetSet.forEach(function (letter) {
-            self.letterPool.push(new LetterController('pool-letter', letter));
+            let ctrl = new LetterController('pool-letter', letter);
+            self.letterPool.push(ctrl);
         });
+    }
     this.setPoolLetterPaths();
     return this;
 };
@@ -44,7 +47,7 @@ PoolManager.prototype.replenishLetterPool = function () {
         missingLetters.concat((function (delta) {
             let missing = [];
             for(let i = 0; i < delta; i++)
-                missing.push(new LetterController('pool-letter'), iLetter);
+                missing.push(new LetterController('pool-letter', thisLetter));
             return missing;
         })(self.alphabetNum - self.letterPool.filter(function (controller) {
             return thisLetter === controller.viewer.data("letter");
@@ -65,5 +68,8 @@ PoolManager.prototype.findLetterInPool = function (target) {
     let founded = this.letterPool.find(function (controller) {
         return controller.viewer.data("letter") === target;
     });
-    return founded || founded.viewer.attr({'data-found':true});
+    founded && founded.viewer.attr('data-found', true);
+    return founded;
 };
+
+let letterPool = new PoolManager(4);

@@ -2,24 +2,22 @@
 function LetterController(cName, value) {
     this.viewer = $('<div />', {'class':[cName, 'invisible'].join(' '), 'data-letter': value, 'html': value});
     this.currentQuadrant = null;
-    this.currrntPoint = {x:null, y:null};
     this.pathHandler = null;
 
     this.transitionPeriod = 300000;
     this.transitionDelay = 0;
-    alert(1);
     this.getIntoBackground();
 }
 
 LetterController.prototype.setPosition = function(point){
-    this.viewer.style['left'] = point.x + 'px';
-    this.viewer.style['top'] = point.y + 'px';
+    this.viewer.css('left', point.x + 'px');
+    this.viewer.css('top', point.y + 'px');
     return this;
 };
 
 LetterController.prototype.setRandPostion = function(excludedSelf=false){
     let self = this;
-    this.setPosition(self.currrntPoint = (function () {
+    this.setPosition((function () {
         self.currentQuadrant = excludedSelf ? (function(N){
             return N + (N > self.currentQuadrant);
         })(getRand(1,3)): getRand(1,4);
@@ -31,8 +29,8 @@ LetterController.prototype.setRandPostion = function(excludedSelf=false){
 LetterController.prototype.setRandTransition = function(){
     let self = this;
     (function(period, delay){
-        self.viewer.style['transition'] = `left ${period}ms linear ${delay}ms,`
-            + `top ${period}ms linear ${delay}ms,` + "opacity 0.5s";
+        self.viewer.css('transition', `left ${period}ms linear ${delay}ms,`
+            + `top ${period}ms linear ${delay}ms,` + "opacity 0.5s");
     })(self.transitionPeriod, self.transitionDelay = getRand(0, this.transitionPeriod)*-1);
     return this;
 };
@@ -49,19 +47,20 @@ LetterController.prototype.startNewPath = function(){
 };
 
 LetterController.prototype.gotoMessageBox = function(box){
+    let self = this;
     this.quitFromBackground();
     this.viewer = (function(origin) {
         return $("<span />", {"class": ["overlay-letter", "in-flight"].join(" "),
-            "html":origin.html}).appendTo("#letter-overlay");
+            "html":origin.html()}).appendTo("#letter-overlay");
     })(this.viewer);
 
     setTimeout(function () {
-        this.viewer.setPosition(box.getBoundingClientRect());
+        self.setPosition(box.get(0).getBoundingClientRect());
         setTimeout(function () {
             box.removeClass("invisible");
-            this.viewer.addClass("invisible");
+            self.viewer.addClass("invisible");
             setTimeout(function () {
-                $("#letter-overlay").removeChild(this.viewer)
+                self.viewer.remove();
             }, 1000);
         }, 1500);
     }, 100);
@@ -74,9 +73,10 @@ LetterController.prototype.getIntoBackground = function(){
 };
 
 LetterController.prototype.quitFromBackground = function(){
+    let self = this;
     this.viewer.addClass('invisible');
     setTimeout(function () {
-        $("#letter-pool").removeChild(this.viewer);
+        self.viewer.remove();
     }, 500);
     clearInterval(this.pathHandler);
     return this;

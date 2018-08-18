@@ -45,3 +45,6 @@ TypingListener.prototype.startListen = function(chatbot){
     };
     return this;
 };
+
+let typer = new TypingListener();
+typer.startListen(chatbot);

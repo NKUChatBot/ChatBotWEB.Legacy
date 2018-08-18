@@ -35,12 +35,15 @@ MessageSender.prototype.sendUserMessage = function () {
     return this;
 };
 
-MessageSender.prototype.sendChatbotMessage = function (chatbotMood) {
-    this.isSending = true;
-    let sender = new MessageViewer(this.ANSWER, chatbotMood);
-    sender.createChatMessage().addChatMessage();
+MessageSender.prototype.sendChatbotMessage = function () {
+    let viewer = new MessageViewer(this.ANSWER, chatbot.CurrentMood);
+    viewer.createChatMessage().addChatMessage();
     setTimeout(function () {
         //toggleInput();
     }, 4000);
     return this;
 };
+
+let initsender = new MessageSender();
+initsender.getChatbotGreet('init');
+initsender.sendChatbotMessage(chatbot.CurrentMood);

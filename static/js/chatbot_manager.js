@@ -22,9 +22,9 @@ ChatbotManager.prototype.setChatbotMood = function(mood){
 };
 
 ChatbotManager.prototype.applyToDOM = function(){
-    this.ProbMoodSet.forEach(function (item) {$("#chat-bot-mood-box").removeClass(item);})
+    this.ProbMoodSet.forEach(function (item) {$("#chat-bot-mood-box").removeClass(item);});
     $("#chat-bot-mood-box").addClass(this.CurrentMood);
-    $("#chat-bot-mood-value").innerHTML = this.CurrentMood;
+    $("#chat-bot-mood-value").html(this.CurrentMood);
 };
 
 ChatbotManager.prototype.startRandMood = function(){
@@ -35,3 +35,5 @@ ChatbotManager.prototype.startRandMood = function(){
 };
 
 ChatbotManager.prototype.stopRandMood = function(){clearInterval(this.intervalHandler);}
+
+let chatbot = new ChatbotManager();
