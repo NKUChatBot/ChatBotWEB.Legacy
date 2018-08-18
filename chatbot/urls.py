@@ -16,6 +16,8 @@ Including another URLconf
 from django.conf.urls import  include,url
 from django.contrib import admin
 from django.urls import path
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
+from django.contrib import staticfiles
 from myapp import views
 
 
@@ -26,3 +28,5 @@ urlpatterns = [
     url(r'^$', views.starter),
     url(r'^ajax/ask/', views.get_answer)
 ]
+#设置静态文件路径
+urlpatterns += staticfiles_urlpatterns()
