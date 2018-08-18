@@ -7,7 +7,7 @@ function LetterController(cName, value) {
 
     this.transitionPeriod = 300000;
     this.transitionDelay = 0;
-
+    alert(1);
     this.getIntoBackground();
 }
 
