@@ -10,28 +10,30 @@
 # -*- coding: utf-8 -*-
 import os
 import sys
-# sys.path.append('../local_scrap')
-# sys.path.append("../")
 from aiml  import Kernel
-# import jieba
-# from jieba_dic.keyword import keywords
 from jieba_dic.keyword import keywords
+from find_college.findKey import find_college
 this_path = os.path.dirname(os.path.realpath(__file__))
-
-
+name=''
+alice = Kernel()
+# alice.learn(os.path.join(this_path,"cn-test.aiml")
+alice.learn(os.path.join(this_path, '../local_scrap/local_cc.aiml'))
+alice.learn(os.path.join(this_path, "../local_scrap/local_cs.aiml"))
+alice.learn(os.path.join(this_path, "../local_scrap/who.aiml"))
 def major(question) :
-    alice = Kernel()
-    # alice.learn(os.path.join(this_path,"cn-test.aiml")
-    alice.learn(os.path.join(this_path, '../local_scrap/local_cs.aiml'))
-    alice.learn(os.path.join(this_path, "../local_scrap/local_cs.aiml"))
-
     while True:
-        # input_message = input("Enter your message >> ")
         name = keywords(question)
-        str = alice.respond(name)
-        # print(alice.respond("你好呀"))
-
-        if str == '':
-            return "这个人是谁啊，妈妈没告诉我"
+        college=find_college(question)
+        if len(college)==0:
+            return alice.respond("查找老师 "+name)
         else:
-            return str
+            str = ""
+            teacher=alice.respond(college[0])
+            teacher=teacher.replace("查 找 老 师 ","")
+            for i in range(0,len(college)):
+                str=str+alice.respond(college[i]+teacher)
+                print(str)
+            if str=="":
+                return "这个人是谁啊，妈妈没告诉我"
+            else:
+                return str

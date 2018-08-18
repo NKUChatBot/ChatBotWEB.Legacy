@@ -7,7 +7,13 @@
 
 
 <category>
-<pattern>高铁杠</pattern>
+<pattern>软件张三</pattern>
+<template>软件测试样例
+</template>
+</category>
+
+<category>
+<pattern>软件高铁杠</pattern>
 <template>所属部门: 软件工程系
 电子邮件: gaotiegang@nankai.edu.cn
 职 称: 教授
@@ -21,7 +27,7 @@
 </category>
 
 <category>
-<pattern>姜桂飞</pattern>
+<pattern>软件姜桂飞</pattern>
 <template>所属部门: 软件工程系
 电子邮件: G.Jiang@nankai.edu.cn
 职 称: 讲师
@@ -34,7 +40,7 @@
 </template>
 </category>
 <category>
-<pattern>刘明铭</pattern>
+<pattern>软件刘明铭</pattern>
 <template>所属部门: 软件工程系
 电子邮件: liumingming@nankai.edu.cn
 职 称: 讲师
@@ -47,7 +53,7 @@
 </template>
 </category>
 <category>
-<pattern>李旭东</pattern>
+<pattern>软件李旭东</pattern>
 <template>所属部门: 软件工程系
 电子邮件: leexudong@nankai.edu.cn
 职 称: 副教授
@@ -60,7 +66,7 @@
 </template>
 </category>
 <category>
-<pattern>马捷</pattern>
+<pattern>软件马捷</pattern>
 <template>所属部门: 软件工程系
 电子邮件: majie1765@nankai.edu.cn
 职 称: 教授
@@ -73,7 +79,7 @@
 </template>
 </category>
 <category>
-<pattern>马玲</pattern>
+<pattern>软件马玲</pattern>
 <template>所属部门: 软件工程系
 电子邮件: maling@nankai.edu.cn
 职 称: 讲师
@@ -86,7 +92,7 @@
 </template>
 </category>
 <category>
-<pattern>师文轩</pattern>
+<pattern>软件师文轩</pattern>
 <template>所属部门: 软件工程系
 办公电话: 13920561100
 电子邮件: shiwx@nankai.edu.cn
@@ -100,7 +106,7 @@
 </template>
 </category>
 <category>
-<pattern>孙凤池</pattern>
+<pattern>软件孙凤池</pattern>
 <template>所属部门: 软件工程系
 电子邮件: fengchisun@nankai.edu.cn
 职 称: 副教授
@@ -114,7 +120,7 @@
 </template>
 </category>
 <category>
-<pattern>王斌辉</pattern>
+<pattern>软件王斌辉</pattern>
 <template>所属部门: 软件工程系
 电子邮件: wangbh@nankai.edu.cn
 学 历:  博士
@@ -128,7 +134,7 @@
 </template>
 </category>
 <category>
-<pattern>王超</pattern>
+<pattern>软件王超</pattern>
 <template>所属部门: 软件工程系
 电子邮件: wangchao@nankai.edu.cn
 职 称: 副研究员
@@ -142,7 +148,7 @@
 </template>
 </category>
 <category>
-<pattern>王靖</pattern>
+<pattern>软件王靖</pattern>
 <template>所属部门: 软件工程系
 电子邮件: jingwang@nankai.edu.cn
 职 称: 副教授
@@ -156,7 +162,7 @@
 </category>
 
 <category>
-<pattern>谢茂强</pattern>
+<pattern>软件谢茂强</pattern>
 <template>所属部门: 软件工程系
 电子邮件: xiemq@nankai.edu.cn
 行政职务:  副院长
@@ -170,7 +176,7 @@
 </template>
 </category>
 <category>
-<pattern>张波</pattern>
+<pattern>软件张波</pattern>
 <template>所属部门: 软件工程系
 电子邮件: zhangbo_nk@163.com
 职 称: 教授
@@ -183,7 +189,7 @@
 </template>
 </category>
 <category>
-<pattern>张圣林</pattern>
+<pattern>软件张圣林</pattern>
 <template>所属部门: 软件工程系
 电子邮件: zhangsl@nankai.edu.cn
 职 称: 讲师
@@ -197,7 +203,7 @@
 </template>
 </category>
 <category>
-<pattern>张玉志</pattern>
+<pattern>软件张玉志</pattern>
 <template>所属部门: 软件工程系
 电子邮件: zyz@nankai.edu.cn
 行政职务:  院长

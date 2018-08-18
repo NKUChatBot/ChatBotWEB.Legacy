@@ -7,7 +7,13 @@
 
 
 <category>
-<pattern>白刚</pattern>
+<pattern>计控张三</pattern>
+<template>计控测试样例
+</template>
+</category>
+
+<category>
+<pattern>计控白刚</pattern>
 <template>
 性 别：男
 所属部门：计算机科学与信息安全系
@@ -17,8 +23,6 @@
 办公电话：23500132
 电子邮件：baigang@nankai.edu.cn
 研究方向：人工智能，机器学习，模式识别，计算机视觉
-
-
 想了解更多：https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=baig
 </template>
 </category>
@@ -26,7 +30,7 @@
 
 
 <category>
-<pattern>陈万义</pattern>
+<pattern>计控陈万义</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：教授
@@ -43,7 +47,7 @@
 
 
 <category>
-<pattern>陈增强</pattern>
+<pattern>计控陈增强</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 行政职务：副所长
@@ -60,7 +64,7 @@
 </category>
 
 <category>
-<pattern>程明明</pattern>
+<pattern>计控程明明</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -76,7 +80,7 @@
 </category>
 
 <category>
-<pattern>程仁洪</pattern>
+<pattern>计控程仁洪</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -92,7 +96,7 @@
 </category>
 
 <category>
-<pattern>段峰</pattern>
+<pattern>计控段峰</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：教授
@@ -107,7 +111,7 @@
 </template>
 </category>
 <category>
-<pattern>方勇纯</pattern>
+<pattern>计控方勇纯</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 行政职务：院长
@@ -123,7 +127,7 @@
 </template>
 </category>
 <category>
-<pattern>韩建达</pattern>
+<pattern>计控韩建达</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：教授
@@ -138,7 +142,7 @@
 </template>
 </category>
 <category>
-<pattern>贾春福</pattern>
+<pattern>计控贾春福</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 行政职务：副系主任
@@ -154,7 +158,7 @@
 </template>
 </category>
 <category>
-<pattern>李庆诚</pattern>
+<pattern>计控李庆诚</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -169,7 +173,7 @@
 </template>
 </category>
 <category>
-<pattern>刘景泰</pattern>
+<pattern>计控刘景泰</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 行政职务：所长
@@ -185,7 +189,7 @@
 </template>
 </category>
 <category>
-<pattern>刘晓光</pattern>
+<pattern>计控刘晓光</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 行政职务：副院长
@@ -201,7 +205,7 @@
 </template>
 </category>
 <category>
-<pattern>刘忠信</pattern>
+<pattern>计控刘忠信</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 行政职务：系主任
@@ -217,7 +221,7 @@
 </template>
 </category>
 <category>
-<pattern>邵秀丽</pattern>
+<pattern>计控邵秀丽</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -232,7 +236,7 @@
 </template>
 </category>
 <category>
-<pattern>孙明玮</pattern>
+<pattern>计控孙明玮</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：教授
@@ -247,7 +251,7 @@
 </template>
 </category>
 <category>
-<pattern>孙青林</pattern>
+<pattern>计控孙青林</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 行政职务：实验中心主任
@@ -263,7 +267,7 @@
 </template>
 </category>
 <category>
-<pattern>王刚（计）</pattern>
+<pattern>计控王刚（计）</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -278,7 +282,7 @@
 </template>
 </category>
 <category>
-<pattern>卫金茂</pattern>
+<pattern>计控卫金茂</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 行政职务：副所长
@@ -294,7 +298,7 @@
 </template>
 </category>
 <category>
-<pattern>辛运帏</pattern>
+<pattern>计控辛运帏</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -309,7 +313,7 @@
 </template>
 </category>
 <category>
-<pattern>徐敬东</pattern>
+<pattern>计控徐敬东</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 行政职务：系主任
@@ -325,7 +329,7 @@
 </template>
 </category>
 <category>
-<pattern>许静</pattern>
+<pattern>计控许静</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 行政职务：副系主任、所长
@@ -341,7 +345,7 @@
 </template>
 </category>
 <category>
-<pattern>杨愚鲁</pattern>
+<pattern>计控杨愚鲁</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -356,7 +360,7 @@
 </template>
 </category>
 <category>
-<pattern>杨征路</pattern>
+<pattern>计控杨征路</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 行政职务：所长
@@ -372,7 +376,7 @@
 </template>
 </category>
 <category>
-<pattern>袁晓洁</pattern>
+<pattern>计控袁晓洁</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -387,7 +391,7 @@
 </template>
 </category>
 <category>
-<pattern>张瀚</pattern>
+<pattern>计控张瀚</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 行政职务：副系主任
@@ -403,7 +407,7 @@
 </template>
 </category>
 <category>
-<pattern>张建勋</pattern>
+<pattern>计控张建勋</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：教授
@@ -418,7 +422,7 @@
 </template>
 </category>
 <category>
-<pattern>张建忠</pattern>
+<pattern>计控张建忠</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -433,7 +437,7 @@
 </template>
 </category>
 <category>
-<pattern>赵新</pattern>
+<pattern>计控赵新</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 行政职务：副院长
@@ -449,7 +453,7 @@
 </template>
 </category>
 <category>
-<pattern>Jeffrey Too Chuan TAN</pattern>
+<pattern>计控Jeffrey Too Chuan TAN</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -464,7 +468,7 @@
 </template>
 </category>
 <category>
-<pattern>Rebecca J.Stones</pattern>
+<pattern>计控Rebecca J.Stones</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -479,7 +483,7 @@
 </template>
 </category>
 <category>
-<pattern>陈晨</pattern>
+<pattern>计控陈晨</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -494,7 +498,7 @@
 </template>
 </category>
 <category>
-<pattern>丛跃进</pattern>
+<pattern>计控丛跃进</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -509,7 +513,7 @@
 </template>
 </category>
 <category>
-<pattern>代煜</pattern>
+<pattern>计控代煜</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：副教授
@@ -524,7 +528,7 @@
 </template>
 </category>
 <category>
-<pattern>宫晓利</pattern>
+<pattern>计控宫晓利</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -539,7 +543,7 @@
 </template>
 </category>
 <category>
-<pattern>黄家友</pattern>
+<pattern>计控黄家友</pattern>
 <template>性 别：男
 所属部门：学院行政管理
 行政职务：党委书记
@@ -555,7 +559,7 @@
 </template>
 </category>
 <category>
-<pattern>李彬</pattern>
+<pattern>计控李彬</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：副研究员
@@ -570,7 +574,7 @@
 </template>
 </category>
 <category>
-<pattern>李朝晖</pattern>
+<pattern>计控李朝晖</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -585,7 +589,7 @@
 </template>
 </category>
 <category>
-<pattern>李涛</pattern>
+<pattern>计控李涛</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -600,7 +604,7 @@
 </template>
 </category>
 <category>
-<pattern>李雨森</pattern>
+<pattern>计控李雨森</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -615,7 +619,7 @@
 </template>
 </category>
 <category>
-<pattern>李岳</pattern>
+<pattern>计控李岳</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -630,7 +634,7 @@
 </template>
 </category>
 <category>
-<pattern>李忠伟</pattern>
+<pattern>计控李忠伟</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -645,7 +649,7 @@
 </template>
 </category>
 <category>
-<pattern>刘杰</pattern>
+<pattern>计控刘杰</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -660,7 +664,7 @@
 </template>
 </category>
 <category>
-<pattern>刘哲理</pattern>
+<pattern>计控刘哲理</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -675,7 +679,7 @@
 </template>
 </category>
 <category>
-<pattern>卢少平</pattern>
+<pattern>计控卢少平</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -690,7 +694,7 @@
 </template>
 </category>
 <category>
-<pattern>倪元华</pattern>
+<pattern>计控倪元华</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -705,7 +709,7 @@
 </template>
 </category>
 <category>
-<pattern>秦岩丁</pattern>
+<pattern>计控秦岩丁</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -720,7 +724,7 @@
 </template>
 </category>
 <category>
-<pattern>饶一梅</pattern>
+<pattern>计控饶一梅</pattern>
 <template>性 别：女
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -735,7 +739,7 @@
 </template>
 </category>
 <category>
-<pattern>沈祖庭</pattern>
+<pattern>计控沈祖庭</pattern>
 <template>性 别：女
 所属部门：学院行政管理
 行政职务：副院长
@@ -751,7 +755,7 @@
 </template>
 </category>
 <category>
-<pattern>史广顺</pattern>
+<pattern>计控史广顺</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -766,7 +770,7 @@
 </template>
 </category>
 <category>
-<pattern>宋起泉</pattern>
+<pattern>计控宋起泉</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 职 称：副研究员
@@ -781,7 +785,7 @@
 </template>
 </category>
 <category>
-<pattern>苏明</pattern>
+<pattern>计控苏明</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副研究员
@@ -796,7 +800,7 @@
 </template>
 </category>
 <category>
-<pattern>孙广毅</pattern>
+<pattern>计控孙广毅</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：副教授
@@ -811,7 +815,7 @@
 </template>
 </category>
 <category>
-<pattern>孙雷</pattern>
+<pattern>计控孙雷</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：副教授
@@ -826,7 +830,7 @@
 </template>
 </category>
 <category>
-<pattern>孙宁</pattern>
+<pattern>计控孙宁</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -841,7 +845,7 @@
 </template>
 </category>
 <category>
-<pattern>王鸿鹏</pattern>
+<pattern>计控王鸿鹏</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：副教授
@@ -856,7 +860,7 @@
 </template>
 </category>
 <category>
-<pattern>王娟</pattern>
+<pattern>计控王娟</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -871,7 +875,7 @@
 </template>
 </category>
 <category>
-<pattern>王恺</pattern>
+<pattern>计控王恺</pattern>
 <template>性 别：男
 所属部门：公共计算机基础教学部
 行政职务：基础教学部副主任
@@ -887,7 +891,7 @@
 </template>
 </category>
 <category>
-<pattern>王玮</pattern>
+<pattern>计控王玮</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -902,7 +906,7 @@
 </template>
 </category>
 <category>
-<pattern>吴民</pattern>
+<pattern>计控吴民</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -917,7 +921,7 @@
 </template>
 </category>
 <category>
-<pattern>吴英</pattern>
+<pattern>计控吴英</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -932,7 +936,7 @@
 </template>
 </category>
 <category>
-<pattern>邢树松</pattern>
+<pattern>计控邢树松</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -947,7 +951,7 @@
 </template>
 </category>
 <category>
-<pattern>徐颖</pattern>
+<pattern>计控徐颖</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：副教授
@@ -962,7 +966,7 @@
 </template>
 </category>
 <category>
-<pattern>许林</pattern>
+<pattern>计控许林</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 行政职务：副系主任
@@ -978,7 +982,7 @@
 </template>
 </category>
 <category>
-<pattern>杨巨峰</pattern>
+<pattern>计控杨巨峰</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -993,7 +997,7 @@
 </template>
 </category>
 <category>
-<pattern>殷爱茹</pattern>
+<pattern>计控殷爱茹</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -1008,7 +1012,7 @@
 </template>
 </category>
 <category>
-<pattern>于宁波</pattern>
+<pattern>计控于宁波</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：副教授
@@ -1023,7 +1027,7 @@
 </template>
 </category>
 <category>
-<pattern>苑晶</pattern>
+<pattern>计控苑晶</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -1038,7 +1042,7 @@
 </template>
 </category>
 <category>
-<pattern>张春燕</pattern>
+<pattern>计控张春燕</pattern>
 <template>性 别：女
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -1053,7 +1057,7 @@
 </template>
 </category>
 <category>
-<pattern>张金</pattern>
+<pattern>计控张金</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -1068,7 +1072,7 @@
 </template>
 </category>
 <category>
-<pattern>张娟娟</pattern>
+<pattern>计控张娟娟</pattern>
 <template>性 别：女
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -1083,7 +1087,7 @@
 </template>
 </category>
 <category>
-<pattern>张雪波</pattern>
+<pattern>计控张雪波</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：副教授
@@ -1098,7 +1102,7 @@
 </template>
 </category>
 <category>
-<pattern>张莹</pattern>
+<pattern>计控张莹</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -1113,7 +1117,7 @@
 </template>
 </category>
 <category>
-<pattern>张玉</pattern>
+<pattern>计控张玉</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -1128,7 +1132,7 @@
 </template>
 </category>
 <category>
-<pattern>赵宏</pattern>
+<pattern>计控赵宏</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 行政职务：基础教学部主任
@@ -1144,7 +1148,7 @@
 </template>
 </category>
 <category>
-<pattern>周环</pattern>
+<pattern>计控周环</pattern>
 <template>性 别：女
 所属部门：学院行政管理
 行政职务：办公室主任
@@ -1160,7 +1164,7 @@
 </template>
 </category>
 <category>
-<pattern>别东洋</pattern>
+<pattern>计控别东洋</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：讲师
@@ -1175,7 +1179,7 @@
 </template>
 </category>
 <category>
-<pattern>蔡庆琼</pattern>
+<pattern>计控蔡庆琼</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：讲师
@@ -1190,7 +1194,7 @@
 </template>
 </category>
 <category>
-<pattern>高裴裴</pattern>
+<pattern>计控高裴裴</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：讲师
@@ -1205,7 +1209,7 @@
 </template>
 </category>
 <category>
-<pattern>古力</pattern>
+<pattern>计控古力</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1220,7 +1224,7 @@
 </template>
 </category>
 <category>
-<pattern>郭宪</pattern>
+<pattern>计控郭宪</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：讲师
@@ -1235,7 +1239,7 @@
 </template>
 </category>
 <category>
-<pattern>过辰楷</pattern>
+<pattern>计控过辰楷</pattern>
 <template>性 别：男
 所属部门：公共计算机基础教学部
 职 称：讲师
@@ -1250,7 +1254,7 @@
 </template>
 </category>
 <category>
-<pattern>韩玲</pattern>
+<pattern>计控韩玲</pattern>
 <template>性 别：女
 所属部门：学院行政管理
 行政职务：党委副书记、副院长
@@ -1266,7 +1270,7 @@
 </template>
 </category>
 <category>
-<pattern>康宏</pattern>
+<pattern>计控康宏</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1281,7 +1285,7 @@
 </template>
 </category>
 <category>
-<pattern>李敏</pattern>
+<pattern>计控李敏</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：讲师
@@ -1296,7 +1300,7 @@
 </template>
 </category>
 <category>
-<pattern>李兴娟</pattern>
+<pattern>计控李兴娟</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1311,7 +1315,7 @@
 </template>
 </category>
 <category>
-<pattern>梁潇</pattern>
+<pattern>计控梁潇</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：讲师
@@ -1326,7 +1330,7 @@
 </template>
 </category>
 <category>
-<pattern>蒲凌君</pattern>
+<pattern>计控蒲凌君</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1341,7 +1345,7 @@
 </template>
 </category>
 <category>
-<pattern>全雄文</pattern>
+<pattern>计控全雄文</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：讲师
@@ -1356,7 +1360,7 @@
 </template>
 </category>
 <category>
-<pattern>任博</pattern>
+<pattern>计控任博</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1371,7 +1375,7 @@
 </template>
 </category>
 <category>
-<pattern>任明明</pattern>
+<pattern>计控任明明</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1386,7 +1390,7 @@
 </template>
 </category>
 <category>
-<pattern>沈玮</pattern>
+<pattern>计控沈玮</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1401,7 +1405,7 @@
 </template>
 </category>
 <category>
-<pattern>宋春瑶</pattern>
+<pattern>计控宋春瑶</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1416,7 +1420,7 @@
 </template>
 </category>
 <category>
-<pattern>孙明竹</pattern>
+<pattern>计控孙明竹</pattern>
 <template>性 别：女
 所属部门：机器人与信息自动化研究所
 职 称：讲师
@@ -1431,7 +1435,7 @@
 </template>
 </category>
 <category>
-<pattern>王刚</pattern>
+<pattern>计控王刚</pattern>
 <template>性 别：男
 所属部门：公共计算机基础教学部
 职 称：讲师
@@ -1446,7 +1450,7 @@
 </template>
 </category>
 <category>
-<pattern>王志</pattern>
+<pattern>计控王志</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1461,7 +1465,7 @@
 </template>
 </category>
 <category>
-<pattern>许昱玮</pattern>
+<pattern>计控许昱玮</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1476,7 +1480,7 @@
 </template>
 </category>
 <category>
-<pattern>于刚</pattern>
+<pattern>计控于刚</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1491,7 +1495,7 @@
 </template>
 </category>
 <category>
-<pattern>张海威</pattern>
+<pattern>计控张海威</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -1506,7 +1510,7 @@
 </template>
 </category>
 <category>
-<pattern>张建磊</pattern>
+<pattern>计控张建磊</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：讲师
@@ -1521,7 +1525,7 @@
 </template>
 </category>
 <category>
-<pattern>张健</pattern>
+<pattern>计控张健</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：讲师
@@ -1536,7 +1540,7 @@
 </template>
 </category>
 <category>
-<pattern>包秀娟</pattern>
+<pattern>计控包秀娟</pattern>
 <template>性 别：女
 所属部门：实验教学中心
 职 称：助理实验师
@@ -1551,7 +1555,7 @@
 </template>
 </category>
 <category>
-<pattern>陈金志</pattern>
+<pattern>计控陈金志</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：实验师
@@ -1566,7 +1570,7 @@
 </template>
 </category>
 <category>
-<pattern>陈景林</pattern>
+<pattern>计控陈景林</pattern>
 <template>性 别：男
 所属部门：公共计算机基础教学部
 职 称：高级工程师
@@ -1581,7 +1585,7 @@
 </template>
 </category>
 <category>
-<pattern>董前琨</pattern>
+<pattern>计控董前琨</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 职 称：助理实验师
@@ -1596,7 +1600,7 @@
 </template>
 </category>
 <category>
-<pattern>郭天勇</pattern>
+<pattern>计控郭天勇</pattern>
 <template>性 别：男
 所属部门：公共计算机基础教学部
 职 称：高级实验师
@@ -1611,7 +1615,7 @@
 </template>
 </category>
 <category>
-<pattern>郭蕴</pattern>
+<pattern>计控郭蕴</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：助理实验师
@@ -1626,7 +1630,7 @@
 </template>
 </category>
 <category>
-<pattern>黄大刚</pattern>
+<pattern>计控黄大刚</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 行政职务：实验中心副主任
@@ -1642,7 +1646,7 @@
 </template>
 </category>
 <category>
-<pattern>康介恢</pattern>
+<pattern>计控康介恢</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 职 称：助理实验师
@@ -1657,7 +1661,7 @@
 </template>
 </category>
 <category>
-<pattern>李妍</pattern>
+<pattern>计控李妍</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：实验师
@@ -1672,7 +1676,7 @@
 </template>
 </category>
 <category>
-<pattern>林浩</pattern>
+<pattern>计控林浩</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 职 称：工程师
@@ -1687,7 +1691,7 @@
 </template>
 </category>
 <category>
-<pattern>刘嘉欣</pattern>
+<pattern>计控刘嘉欣</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 行政职务：实验中心副主任
@@ -1703,7 +1707,7 @@
 </template>
 </category>
 <category>
-<pattern>刘瑞琴</pattern>
+<pattern>计控刘瑞琴</pattern>
 <template>性 别：女
 所属部门：实验教学中心
 职 称：工程师
@@ -1718,7 +1722,7 @@
 </template>
 </category>
 <category>
-<pattern>刘爽</pattern>
+<pattern>计控刘爽</pattern>
 <template>性 别：男
 所属部门：公共计算机基础教学部
 职 称：工程师
@@ -1733,7 +1737,7 @@
 </template>
 </category>
 <category>
-<pattern>卢冶</pattern>
+<pattern>计控卢冶</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 职 称：实验师
@@ -1748,7 +1752,7 @@
 </template>
 </category>
 <category>
-<pattern>路明晓</pattern>
+<pattern>计控路明晓</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：助理实验师
@@ -1763,7 +1767,7 @@
 </template>
 </category>
 <category>
-<pattern>乜鹏</pattern>
+<pattern>计控乜鹏</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 职 称：助理实验师
@@ -1778,7 +1782,7 @@
 </template>
 </category>
 <category>
-<pattern>孙月</pattern>
+<pattern>计控孙月</pattern>
 <template>性 别：女
 所属部门：实验教学中心
 职 称：助理实验师
@@ -1793,7 +1797,7 @@
 </template>
 </category>
 <category>
-<pattern>王冬梅</pattern>
+<pattern>计控王冬梅</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：高级实验师
@@ -1808,7 +1812,7 @@
 </template>
 </category>
 <category>
-<pattern>王晓娜</pattern>
+<pattern>计控王晓娜</pattern>
 <template>性 别：女
 所属部门：自动化与智能科学系
 职 称：工程师
@@ -1823,7 +1827,7 @@
 </template>
 </category>
 <category>
-<pattern>温延龙</pattern>
+<pattern>计控温延龙</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 行政职务：系主任助理
@@ -1839,7 +1843,7 @@
 </template>
 </category>
 <category>
-<pattern>徐宁</pattern>
+<pattern>计控徐宁</pattern>
 <template>性 别：女
 所属部门：实验教学中心
 职 称：高级工程师
@@ -1854,7 +1858,7 @@
 </template>
 </category>
 <category>
-<pattern>许丽</pattern>
+<pattern>计控许丽</pattern>
 <template>性 别：女
 所属部门：实验教学中心
 职 称：实验师
@@ -1869,7 +1873,7 @@
 </template>
 </category>
 <category>
-<pattern>闫晓玉</pattern>
+<pattern>计控闫晓玉</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：助理实验师
@@ -1884,7 +1888,7 @@
 </template>
 </category>
 <category>
-<pattern>张彪</pattern>
+<pattern>计控张彪</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 职 称：助理实验师
@@ -1899,7 +1903,7 @@
 </template>
 </category>
 <category>
-<pattern>张涛</pattern>
+<pattern>计控张涛</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 职 称：助理实验师
@@ -1914,7 +1918,7 @@
 </template>
 </category>
 <category>
-<pattern>张小林</pattern>
+<pattern>计控张小林</pattern>
 <template>性 别：男
 所属部门：实验教学中心
 职 称：高级实验师
@@ -1929,7 +1933,7 @@
 </template>
 </category>
 <category>
-<pattern>周璐</pattern>
+<pattern>计控周璐</pattern>
 <template>性 别：女
 所属部门：自动化与智能科学系
 行政职务：系主任助理
@@ -1945,7 +1949,7 @@
 </template>
 </category>
 <category>
-<pattern>朱美玲</pattern>
+<pattern>计控朱美玲</pattern>
 <template>性 别：女
 所属部门：公共计算机基础教学部
 职 称：工程师
@@ -1960,7 +1964,7 @@
 </template>
 </category>
 <category>
-<pattern>于宁波</pattern>
+<pattern>计控于宁波</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：副教授
@@ -1975,7 +1979,7 @@
 </template>
 </category>
 <category>
-<pattern>方勇纯</pattern>
+<pattern>计控方勇纯</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 行政职务：院长
@@ -1991,7 +1995,7 @@
 </template>
 </category>
 <category>
-<pattern>刘杰</pattern>
+<pattern>计控刘杰</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -2006,7 +2010,7 @@
 </template>
 </category>
 <category>
-<pattern>赵新</pattern>
+<pattern>计控赵新</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 行政职务：副院长
@@ -2022,7 +2026,7 @@
 </template>
 </category>
 <category>
-<pattern>秦岩丁</pattern>
+<pattern>计控秦岩丁</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -2037,7 +2041,7 @@
 </template>
 </category>
 <category>
-<pattern>赵新</pattern>
+<pattern>计控赵新</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 行政职务：副院长
@@ -2053,7 +2057,7 @@
 </template>
 </category>
 <category>
-<pattern>王鸿鹏</pattern>
+<pattern>计控王鸿鹏</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：副教授
@@ -2068,7 +2072,7 @@
 </template>
 </category>
 <category>
-<pattern>刘晓光</pattern>
+<pattern>计控刘晓光</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 行政职务：副院长
@@ -2084,7 +2088,7 @@
 </template>
 </category>
 <category>
-<pattern>孙宁</pattern>
+<pattern>计控孙宁</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 职 称：副教授
@@ -2099,7 +2103,7 @@
 </template>
 </category>
 <category>
-<pattern>袁晓洁</pattern>
+<pattern>计控袁晓洁</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -2116,7 +2120,7 @@
 
 
 <category>
-<pattern>方勇纯</pattern>
+<pattern>计控方勇纯</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 行政职务：院长
@@ -2134,7 +2138,7 @@
 
 
 <category>
-<pattern>张建勋</pattern>
+<pattern>计控张建勋</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：教授
@@ -2151,7 +2155,7 @@
 
 
 <category>
-<pattern>王刚</pattern>
+<pattern>计控王刚</pattern>
 <template>性 别：男
 所属部门：公共计算机基础教学部
 职 称：讲师
@@ -2166,7 +2170,7 @@
 </template>
 </category>
 <category>
-<pattern>张玉</pattern>
+<pattern>计控张玉</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -2181,7 +2185,7 @@
 </template>
 </category>
 <category>
-<pattern>张建忠</pattern>
+<pattern>计控张建忠</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -2196,7 +2200,7 @@
 </template>
 </category>
 <category>
-<pattern>代煜</pattern>
+<pattern>计控代煜</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：副教授
@@ -2211,7 +2215,7 @@
 </template>
 </category>
 <category>
-<pattern>张建勋</pattern>
+<pattern>计控张建勋</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 职 称：教授
@@ -2226,7 +2230,7 @@
 </template>
 </category>
 <category>
-<pattern>张金</pattern>
+<pattern>计控张金</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：副教授
@@ -2241,7 +2245,7 @@
 </template>
 </category>
 <category>
-<pattern>浅间一</pattern>
+<pattern>计控浅间一</pattern>
 <template>性 别：男
 所属部门：兼职博士生导师
 职 称：讲座教授
@@ -2256,7 +2260,7 @@
 </template>
 </category>
 <category>
-<pattern>张海威</pattern>
+<pattern>计控张海威</pattern>
 <template>性 别：男
 所属部门：计算机科学与信息安全系
 职 称：讲师
@@ -2271,7 +2275,7 @@
 </template>
 </category>
 <category>
-<pattern>赵新</pattern>
+<pattern>计控赵新</pattern>
 <template>性 别：男
 所属部门：机器人与信息自动化研究所
 行政职务：副院长
@@ -2287,7 +2291,7 @@
 </template>
 </category>
 <category>
-<pattern>孙明竹</pattern>
+<pattern>计控孙明竹</pattern>
 <template>性 别：女
 所属部门：机器人与信息自动化研究所
 职 称：讲师
@@ -2302,7 +2306,7 @@
 </template>
 </category>
 <category>
-<pattern>袁晓洁</pattern>
+<pattern>计控袁晓洁</pattern>
 <template>性 别：女
 所属部门：计算机科学与信息安全系
 职 称：教授
@@ -2319,7 +2323,7 @@
 
 
 <category>
-<pattern>陈增强</pattern>
+<pattern>计控陈增强</pattern>
 <template>性 别：男
 所属部门：自动化与智能科学系
 行政职务：副所长
@@ -2338,7 +2342,7 @@
 
 
 <category>
-<pattern>谭永红</pattern>
+<pattern>计控谭永红</pattern>
 <template>性 别：男
 所属部门：兼职博士生导师
 职 称：兼职教授
@@ -2353,7 +2357,7 @@
 </template>
 </category>
 <category>
-<pattern>张玉军</pattern>
+<pattern>计控张玉军</pattern>
 <template>性 别：男
 所属部门：兼职博士生导师
 职 称：兼职教授
@@ -2371,7 +2375,7 @@
 
 
 <category>
-<pattern>周明</pattern>
+<pattern>计控周明</pattern>
 <template>性 别：男
 所属部门：兼职博士生导师
 职 称：兼职教授
@@ -2386,7 +2390,7 @@
 </template>
 </category>
 <category>
-<pattern>张永铮</pattern>
+<pattern>计控张永铮</pattern>
 <template>性 别：男
 所属部门：兼职博士生导师
 职 称：兼职教授
@@ -2401,7 +2405,7 @@
 </template>
 </category>
 <category>
-<pattern>高雨青</pattern>
+<pattern>计控高雨青</pattern>
 <template>性 别：女
 所属部门：兼职博士生导师
 职 称：客座教授
@@ -2416,7 +2420,7 @@
 </template>
 </category>
 <category>
-<pattern>沈晓卫</pattern>
+<pattern>计控沈晓卫</pattern>
 <template>性 别：男
 所属部门：兼职博士生导师
 职 称：客座教授
@@ -2431,7 +2435,7 @@
 </template>
 </category>
 <category>
-<pattern>陈云霁</pattern>
+<pattern>计控陈云霁</pattern>
 <template>性 别：男
 所属部门：兼职博士生导师
 职 称：未知

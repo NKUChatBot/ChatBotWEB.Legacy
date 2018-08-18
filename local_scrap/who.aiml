@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<meta name="language" content="zh"/>
+
+<category>
+<pattern>查找老师 *</pattern>
+<template>
+<random>
+    <li>恩？<think><set name="name"><star/></set></think><star/>是哪个学院的呀？</li>
+    <li>告诉我<star/>的学院 </li>
+    <li>我知道的太少了，不如告诉我<star/>的学院吧</li>
+    <li>你知道<star/>在哪个学院吗</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>计控</pattern>
+<template>
+<input index="2"/>
+</template>
+</category>
+
+<category>
+<pattern>软件</pattern>
+<template>
+<input index="2"/>
+</template>
+</category>
+
+</aiml>
+
