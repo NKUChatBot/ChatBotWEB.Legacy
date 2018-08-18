@@ -16,7 +16,7 @@ sys.path.append('../')
 # sys.path.append("../")
 
 from aiml import Kernel
-import QQChat           #Allen's
+import QQChat                  #Allen's
 import aiml_similarity as a2s  #Allen's
 
 # import jieba
@@ -36,14 +36,14 @@ def major(question) :
     # input_message = input("Enter your message >> ")
     
     # aiml_similarity模块判定,本模块可信度较高
-    answer, similar = a2s.respond(text) #answer为返回结果，similar记录相似度
-    if similar>=0.4:
+    answer, similar = a2s.respond(question) #answer为返回结果，similar记录相似度
+    if answer and similar>=0.4:
         print(answer)
         return answer
     
     # QQChat模块判定，本模块可信度较低，建议延后
-    answer, similar = QQChat.respond(text) #answer为返回结果，similar记录相似度
-    if similar>=0.4:
+    answer, similar = QQChat.respond(question) #answer为返回结果，similar记录相似度
+    if answer and similar>=0.4:
         print(answer)
         return answer
     

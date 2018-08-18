@@ -140,7 +140,7 @@ def Get_Ans(question):
     return QA[num][1],dis
 
 def load():
-    print("loading...")
+    print("\n\n--QQChat模块加载中...--")
     start=time.time()
     Generate_QA()
     end=time.time()
