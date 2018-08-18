@@ -24,8 +24,10 @@ urlpatterns = [
     url(r'^index/', views.index),
     url(r"^bot/", views.main),
     url(r'^$', views.starter),
-    url(r'^ajax/ask/', views.get_answer)
+    url(r'^ajax/ask/', views.get_answer),
+    url(r'^ajax/greet/', views.get_greeting)
 ]
+
 
 handler404 = views.page_not_found
 handler500 = views.page_error

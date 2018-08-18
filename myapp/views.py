@@ -26,6 +26,12 @@ def get_answer(request):
     return HttpResponse(json.dumps(answer), content_type='application/json')
 
 
+@csrf_exempt
+def get_greeting(request):
+    greet = RunQA.greeting(request.POST['input'])
+    return HttpResponse(json.dumps(greet), content_type='application/json')
+
+
 def page_not_found(request):
     return render(request, '404.html')
 

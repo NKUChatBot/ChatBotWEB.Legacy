@@ -296,7 +296,7 @@ html, body{
           margin-bottom: 20px;
           white-space: nowrap;
           
-          &.received{
+          &.answer{
             text-align: left;
             
             &.friendly{
@@ -334,7 +334,7 @@ html, body{
             }
           }
           
-          &.sent{
+          &.question{
             text-align: right;
             
             .profile-icon{

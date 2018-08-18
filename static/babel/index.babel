@@ -1,12 +1,12 @@
-const LETTER_POOL = getEl('letter-pool'),
-      TEMP_LETTER_POOL = getEl('temp-letter-pool'),
+const $("#temp-letter") = getEl('letter-pool'),
+      $("#temp-letter-pool") = getEl('temp-letter-pool'),
       LETTER_OVERLAY = getEl('letter-overlay'),
       CHAT_MESSAGE_COLUMN_WRAPPER = getEl('chat-message-column-wrapper'),
       CHAT_MESSAGE_COLUMN = getEl('chat-message-column'),
-      MESSAGE_INPUT = getEl('message-input'),
-      MESSAGE_INPUT_FIELD = getEl('message-input-field'),
-      CHAT_BOT_MOOD = getEl('chat-bot-mood'),
-      CHAT_BOT_MOOD_VALUE = getEl('chat-bot-mood-value')
+      $("#message-input") = getEl('message-input'),
+      $("#message-input-field") = getEl('message-input-field'),
+      $("#chat-bot-mood-box") = getEl("chat-bot-mood-box"),
+      $("#chat-bot-mood-value") = getEl('chat-bot-mood-value')
 
 const STATE = {
   isUserSendingMessage: false,
@@ -29,10 +29,10 @@ const getRandMood = () => {
 const setChatbotMood = () => {
   STATE.currentMood = getRandMood()
   for(let i = 0; i < STATE.moods.length; i++){
-    removeClass(CHAT_BOT_MOOD, STATE.moods[i])
+    removeClass($("#chat-bot-mood-box") , STATE.moods[i])
   }
-  addClass(CHAT_BOT_MOOD, STATE.currentMood)
-  CHAT_BOT_MOOD_VALUE.innerHTML = STATE.currentMood
+  addClass($("#chat-bot-mood-box") , STATE.currentMood)
+  $("#chat-bot-mood-value").innerHTML = STATE.currentMood
 }
 
 const getRandGreeting = () => {
@@ -118,7 +118,7 @@ const setRandLetterPaths = letters => {
     setElPos(letter, startPos.x, startPos.y)
     setStyle(letter, 'transition', transition)
     addClass(letter, 'invisible')
-    LETTER_POOL.appendChild(letter)
+    $("#temp-letter").appendChild(letter)
     setTimeout(() => {
       setElPos(letter, nextPos.x, nextPos.y)
       removeClass(letter, 'invisible')
@@ -155,7 +155,7 @@ const findMissingLetters = (letters, lCount, isUpperCase) => {
 }
 
 const replenishLetterPool = (nSets = 1) => {
-  const poolLetters = LETTER_POOL.childNodes
+  const poolLetters = $("#temp-letter").childNodes
   let charInd = 65,
       currentLetters = [],
       missingLetters = [],
@@ -174,7 +174,7 @@ const replenishLetterPool = (nSets = 1) => {
 }
 
 const clearLetterPool = () => {
-  removeAllChildren(LETTER_POOL)
+  removeAllChildren($("#temp-letter"))
 }
 
 const scrollToBottomOfMessages = () => {
@@ -205,7 +205,7 @@ const createChatMessage = (text, isReceived) => {
       icon = document.createElement('i'),
       content = document.createElement('div'),
       contentText = document.createElement('h1'),
-      direction = isReceived ? 'received' : 'sent'
+      direction = isReceived ? 'answer' : 'question'
   
   addClass(content, 'content')
   addClass(content, 'invisible')
@@ -223,7 +223,7 @@ const createChatMessage = (text, isReceived) => {
   
   if(isReceived){
     addClass(icon, 'fab')
-    addClass(icon, 'fa-cloudsmith')
+    addClass(icon, 'fa-cloud')
     addClass(message, STATE.currentMood)
     message.appendChild(profileIcon)
     message.appendChild(content)
@@ -239,7 +239,7 @@ const createChatMessage = (text, isReceived) => {
 }
 
 const findLetterInPool = targetLetter => {
-  let letters = LETTER_POOL.childNodes,
+  let letters = $("#temp-letter").childNodes,
         foundLetter = null
   for(let i = 0; i < letters.length; i++){
     const nextLetter = letters[i]
@@ -263,7 +263,7 @@ const createOverlayLetter = val => {
 const removePoolLetter = letter => {
   addClass(letter, 'invisible')
   setTimeout(() => {
-    removeChild(LETTER_POOL, letter)
+    removeChild($("#temp-letter"), letter)
   }, 500)
 }
 
@@ -317,10 +317,10 @@ const animateMessageLetters = (message, isReceived) => {
             pos = getRandPosOffScreen()
       addClass(tempLetter, 'invisible')
       setElPos(tempLetter, pos.x, pos.y)
-      TEMP_LETTER_POOL.appendChild(tempLetter)
+      $("#temp-letter-pool").appendChild(tempLetter)
       animateOverlayLetter(tempLetter, contentText, finalPos, isReceived)
       setTimeout(() => {
-        removeChild(TEMP_LETTER_POOL, tempLetter)
+        removeChild($("#temp-letter-pool"), tempLetter)
       }, 100)
     }
   }
@@ -345,21 +345,21 @@ const addChatMessage = (text, isReceived) => {
   }, 250)
 }
 
-const checkIfInputFieldHasVal = () => MESSAGE_INPUT_FIELD.value.length > 0
+const checkIfInputFieldHasVal = () => $("#message-input-field").value.length > 0
 
 const clearInputField = () => {
-  MESSAGE_INPUT_FIELD.value = ''
+  $("#message-input-field").value = ''
 }
 
 const disableInputField = () => {
-  MESSAGE_INPUT_FIELD.blur()
-  MESSAGE_INPUT_FIELD.value = ''
-  MESSAGE_INPUT_FIELD.readOnly = true
+  $("#message-input-field").blur()
+  $("#message-input-field").value = ''
+  $("#message-input-field").readOnly = true
 }
 
 const enableInputField = () => {
-  MESSAGE_INPUT_FIELD.readOnly = false
-  MESSAGE_INPUT_FIELD.focus()
+  $("#message-input-field").readOnly = false
+  $("#message-input-field").focus()
 }
 
 const getChatbotMessageText = () => {
@@ -383,7 +383,7 @@ const sendChatbotMessage = () => {
 }
 
 const sendUserMessage = () => {
-  const text = MESSAGE_INPUT_FIELD.value
+  const text = $("#message-input-field").value
   STATE.isUserSendingMessage = true
   addChatMessage(text, false)
   setTimeout(() => {
@@ -429,10 +429,10 @@ const resetLetterPool = () => {
 
 const toggleInput = () => {
   if(checkIfInputFieldHasVal() && canSendMessage()){
-    addClass(MESSAGE_INPUT, 'send-enabled')
+    addClass($("#message-input"), 'send-enabled')
   }
   else{
-    removeClass(MESSAGE_INPUT, 'send-enabled')
+    removeClass($("#message-input"), 'send-enabled')
   }
 }
 
@@ -457,20 +457,20 @@ const setMoodInterval = time => {
   }, time)
 }
 
-MESSAGE_INPUT_FIELD.onkeypress = e => {
+$("#message-input-field").onkeypress = e => {
   if(checkIfInputFieldHasVal() && e.key === 'Enter'){
-    removeClass(MESSAGE_INPUT, 'send-enabled')
+    removeClass($("#message-input"), 'send-enabled')
     if(canSendMessage()){
       onEnterPress(e)
     }
   }
 }
 
-MESSAGE_INPUT_FIELD.onkeyup = () => {
+$("#message-input-field").onkeyup = () => {
   toggleInput()
 }
 
-MESSAGE_INPUT_FIELD.oncut = () => toggleInput()
+$("#message-input-field").oncut = () => toggleInput()
 
 window.onload = () => init()
 

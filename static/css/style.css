@@ -219,46 +219,46 @@ html, body {
   margin-bottom: 20px;
   white-space: nowrap;
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.received {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.answer {
   text-align: left;
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.received.friendly .profile-icon {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.answer.friendly .profile-icon {
   /*background: linear-gradient(to right, #03a9f4, #4caf50);*/
  background-image: url(../images/friendly.jpg);
  background-size:cover;
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.received.confused .profile-icon {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.answer.confused .profile-icon {
   /*background: linear-gradient(to right, #d32f2f, #ff6f00);*/
  background-image: url(../images/confused.jpg);
  background-size: cover;
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.received.boastful .profile-icon {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.answer.boastful .profile-icon {
   /*background: linear-gradient(to right, #ff6f00, #fbc02d);*/
  background-image: url(../images/boastful.jpeg);
  background-size: cover;
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.received .profile-icon i {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.answer .profile-icon i {
   font-size: 1.5em;
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.received .profile-icon i:before {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.answer .profile-icon i:before {
   display: inline-block;
   transform: rotate(90deg);
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.received .content {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.answer .content {
   animation: bounceInLeft 1s ease-in-out;
   animation-delay: 0.5s;
   margin-left: 20px;
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.sent {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.question {
   text-align: right;
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.sent .profile-icon {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.question .profile-icon {
   background: linear-gradient(to right, #ab47bc, #03a9f4);
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.sent .profile-icon i {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.question .profile-icon i {
   font-size: 1.25em;
 }
-#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.sent .content {
+#chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message.question .content {
   animation: bounceInRight 1s ease-in-out;
   animation-delay: 0.5s;
   margin-right: 20px;
