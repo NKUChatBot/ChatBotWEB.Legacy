@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ed1acb-34c7-4729-b976-72e2c777d527" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/local_scrap/nk.aiml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QQChat/similar_ans.py" beforeDir="false" afterPath="$PROJECT_DIR$/QQChat/similar_ans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QQChat/similars/fenci.py" beforeDir="false" afterPath="$PROJECT_DIR$/QQChat/similars/fenci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RunQA/RunQA.py" beforeDir="false" afterPath="$PROJECT_DIR$/RunQA/RunQA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aiml_similarity/aiml_similarity.py" beforeDir="false" afterPath="$PROJECT_DIR$/aiml_similarity/aiml_similarity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local_scrap/who.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/local_scrap/who.aiml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,10 +57,10 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Django Console" value="44" />
-          <entry key="aiml" value="145" />
+          <entry key="aiml" value="148" />
           <entry key="css" value="2" />
           <entry key="html" value="176" />
-          <entry key="py" value="1664" />
+          <entry key="py" value="1749" />
           <entry key="txt" value="55" />
         </counts>
       </usages-collector>
@@ -71,8 +68,8 @@
         <counts>
           <entry key="CSS" value="2" />
           <entry key="HTML" value="176" />
-          <entry key="PLAIN_TEXT" value="200" />
-          <entry key="Python" value="1708" />
+          <entry key="PLAIN_TEXT" value="203" />
+          <entry key="Python" value="1793" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -83,11 +80,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RunQA/RunQA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+            <state relative-caret-position="167">
+              <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
               <folding>
                 <element signature="e#238#247#0" expanded="true" />
-                <marker date="1534600844570" expanded="true" signature="840:1230" ph="..." />
+                <marker date="1534603974265" expanded="true" signature="840:1230" ph="..." />
               </folding>
             </state>
           </provider>
@@ -126,15 +123,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RunQA_Test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QQChat/similars/fenci.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -146,8 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/local_scrap/who.aiml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="368">
+              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -155,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/find_college/findKey.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="301">
+              <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
               <folding>
                 <element signature="e#71#83#0" expanded="true" />
               </folding>
@@ -210,12 +198,12 @@
         <option value="$PROJECT_DIR$/scrap/synonyms.txt" />
         <option value="$PROJECT_DIR$/local_scrap/local_cc.aiml" />
         <option value="$PROJECT_DIR$/local_scrap/local_cs.aiml" />
-        <option value="$PROJECT_DIR$/local_scrap/who.aiml" />
         <option value="$PROJECT_DIR$/QQChat/similars/fenci.py" />
         <option value="$PROJECT_DIR$/QQChat/similar_ans.py" />
         <option value="$PROJECT_DIR$/aiml_similarity/synonyms/word2vec.py" />
         <option value="$PROJECT_DIR$/aiml_similarity/aiml_similarity.py" />
         <option value="$PROJECT_DIR$/RunQA/RunQA.py" />
+        <option value="$PROJECT_DIR$/local_scrap/who.aiml" />
       </list>
     </option>
   </component>
@@ -225,7 +213,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="32" />
     <option name="width" value="1440" />
     <option name="height" value="805" />
@@ -487,7 +475,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="32" width="1440" height="805" extended-state="6" />
+    <frame x="0" y="32" width="1440" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
@@ -752,23 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QQChat/similars/fenci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find_college/findKey.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding>
-            <element signature="e#71#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/QQChat/similar_ans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -783,17 +754,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RunQA_Test.py">
+    <entry file="file://$PROJECT_DIR$/local_scrap/nk.aiml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_college/findKey.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="301">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="e#71#83#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/local_scrap/who.aiml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="368">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QQChat/similars/fenci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RunQA_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -804,16 +795,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local_scrap/nk.aiml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/RunQA/RunQA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        <state relative-caret-position="167">
+          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
           <folding>
             <element signature="e#238#247#0" expanded="true" />
-            <marker date="1534600844570" expanded="true" signature="840:1230" ph="..." />
+            <marker date="1534603974265" expanded="true" signature="840:1230" ph="..." />
           </folding>
         </state>
       </provider>

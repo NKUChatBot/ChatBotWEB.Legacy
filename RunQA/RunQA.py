@@ -47,7 +47,7 @@ def major(question) :
         return ans
     name = keywords(question)
     college=find_college(question)
-    if not name:
+    if not name and len(college)==0:
         ans = similar_ans(question)
         if ans:
             return ans
@@ -56,10 +56,13 @@ def major(question) :
     else:
         str = ""
         teacher=alice.respond(college[0])
+        print(college[0])
+        print(college[1])
+        print(teacher)
         teacher=teacher.replace("查 找 老 师 ","")
         for i in range(0,len(college)):
             str=str+alice.respond(college[i]+teacher)
-            print(str)
+            # print(str)
         if str.strip():
             return str
 
