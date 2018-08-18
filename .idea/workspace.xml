@@ -4,7 +4,6 @@
     <list default="true" id="99ed1acb-34c7-4729-b976-72e2c777d527" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RunQA/RunQA.py" beforeDir="false" afterPath="$PROJECT_DIR$/RunQA/RunQA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local_scrap/who.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/local_scrap/who.aiml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
           <entry key="html" value="10" />
           <entry key="iml" value="2" />
           <entry key="js" value="5" />
-          <entry key="py" value="45" />
+          <entry key="py" value="47" />
           <entry key="scss" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -50,7 +49,7 @@
           <entry key="IDEA_MODULE" value="2" />
           <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="45" />
+          <entry key="Python" value="47" />
           <entry key="SCSS" value="1" />
         </counts>
       </usages-collector>
@@ -77,88 +76,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RunQA/RunQA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
+            <state relative-caret-position="121">
               <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
               <folding>
                 <element signature="e#238#247#0" expanded="true" />
-                <marker date="1534603974265" expanded="true" signature="840:1230" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local_scrap/nk.aiml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../nku_project/NKU-Q-A/WorkPlace/chenjie-de-WorkPlace/py3_who/search/teacher_info.py">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QQChat/similar_ans.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aiml_similarity/synonyms/word2vec.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="74" lean-forward="true" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aiml_similarity/aiml_similarity.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QQChat/similars/fenci.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local_scrap/who.aiml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/find_college/findKey.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
-              <folding>
-                <element signature="e#71#83#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrap/synonyms.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -202,8 +134,8 @@
         <option value="$PROJECT_DIR$/QQChat/similar_ans.py" />
         <option value="$PROJECT_DIR$/aiml_similarity/synonyms/word2vec.py" />
         <option value="$PROJECT_DIR$/aiml_similarity/aiml_similarity.py" />
-        <option value="$PROJECT_DIR$/RunQA/RunQA.py" />
         <option value="$PROJECT_DIR$/local_scrap/who.aiml" />
+        <option value="$PROJECT_DIR$/RunQA/RunQA.py" />
       </list>
     </option>
   </component>
@@ -223,18 +155,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ChatBotWEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="ChatBotWEB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ChatBotWEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ChatBotWEB" type="462c0819:PsiDirectoryNode" />
-              <item name="local_scrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ChatBotWEB" type="b2602c69:ProjectViewProjectNode" />
@@ -249,17 +175,13 @@
             <path>
               <item name="ChatBotWEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="ChatBotWEB" type="462c0819:PsiDirectoryNode" />
-              <item name="scrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ChatBotWEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ChatBotWEB" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -478,12 +400,12 @@
     <frame x="0" y="32" width="1440" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49570817" visible="true" weight="0.3015428" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49499285" visible="true" weight="0.3015428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,7 +413,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49928468" weight="0.32959327" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50429183" side_tool="true" visible="true" weight="0.3015428" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50500715" side_tool="true" visible="true" weight="0.3015428" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49356222" weight="0.32959327" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49713877" weight="0.32959327" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -628,10 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
           <caret line="113" column="21" lean-forward="true" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
-          <folding>
-            <marker date="1534582009951" expanded="true" signature="1684:2146" ph="..." />
-            <marker date="1534582009951" expanded="true" signature="2023:2081" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,14 +715,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RunQA/RunQA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
+        <state relative-caret-position="121">
           <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
           <folding>
             <element signature="e#238#247#0" expanded="true" />
-            <marker date="1534603974265" expanded="true" signature="840:1230" ph="..." />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../nku_project/NKU-Q-A/WorkPlace/chenjie-de-WorkPlace/py3_who/search/teacher_info.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

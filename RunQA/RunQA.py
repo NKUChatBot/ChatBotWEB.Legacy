@@ -57,7 +57,7 @@ def major(question) :
         str = ""
         teacher=alice.respond(college[0])
         print(college[0])
-        print(college[1])
+        # print(college[1])
         print(teacher)
         teacher=teacher.replace("查 找 老 师 ","")
         for i in range(0,len(college)):
