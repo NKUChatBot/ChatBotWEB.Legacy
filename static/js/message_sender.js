@@ -22,7 +22,7 @@ MessageSender.prototype.getChatbotGreet = function(greetingType){
         .done(function (data) { this.ANSWER = data;})
         .fail(function(){this.ANSWER = "Sorry Greeting program fail!"});
     return this.ANSWER;
-}
+};
 
 MessageSender.prototype.sendUserMessage = function () {
     STATE.isUserSendingMessage = true;

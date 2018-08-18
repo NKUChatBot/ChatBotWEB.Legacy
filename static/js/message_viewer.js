@@ -34,4 +34,13 @@ MessageViewer.prototype.addChatMessage = function(Animation1, Animation2){
     }, 250);
 };
 
-
+MessageViewer.prototype.animateMessageLetters = function (letterPool) {
+    let self = this;
+    this.textContainer.forEach(function (span) {
+        let targetLetter = letterPool.findLetterInPool(span.data("letter"));
+        targetLetter ? targetLetter.gotoMessageBox(this.MessageBox) : (function () {
+            let temp = new LetterController('temp-letter', span.data("letter"));
+            temp.setRandPostion().gotoMessageBox(self.MessageBox);
+        })();
+    })
+};

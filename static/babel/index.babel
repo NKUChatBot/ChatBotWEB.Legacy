@@ -1,6 +1,6 @@
-const $("#temp-letter") = getEl('letter-pool'),
+const $("#letter-pool") = getEl('letter-pool'),
       $("#temp-letter-pool") = getEl('temp-letter-pool'),
-      LETTER_OVERLAY = getEl('letter-overlay'),
+      $("#letter-overlay") = getEl('letter-overlay'),
       CHAT_MESSAGE_COLUMN_WRAPPER = getEl('chat-message-column-wrapper'),
       CHAT_MESSAGE_COLUMN = getEl('chat-message-column'),
       $("#message-input") = getEl('message-input'),
@@ -118,7 +118,7 @@ const setRandLetterPaths = letters => {
     setElPos(letter, startPos.x, startPos.y)
     setStyle(letter, 'transition', transition)
     addClass(letter, 'invisible')
-    $("#temp-letter").appendChild(letter)
+    $("#letter-pool").appendChild(letter)
     setTimeout(() => {
       setElPos(letter, nextPos.x, nextPos.y)
       removeClass(letter, 'invisible')
@@ -155,7 +155,7 @@ const findMissingLetters = (letters, lCount, isUpperCase) => {
 }
 
 const replenishLetterPool = (nSets = 1) => {
-  const poolLetters = $("#temp-letter").childNodes
+  const poolLetters = $("#letter-pool").childNodes
   let charInd = 65,
       currentLetters = [],
       missingLetters = [],
@@ -174,7 +174,7 @@ const replenishLetterPool = (nSets = 1) => {
 }
 
 const clearLetterPool = () => {
-  removeAllChildren($("#temp-letter"))
+  removeAllChildren($("#letter-pool"))
 }
 
 const scrollToBottomOfMessages = () => {
@@ -239,7 +239,7 @@ const createChatMessage = (text, isReceived) => {
 }
 
 const findLetterInPool = targetLetter => {
-  let letters = $("#temp-letter").childNodes,
+  let letters = $("#letter-pool").childNodes,
         foundLetter = null
   for(let i = 0; i < letters.length; i++){
     const nextLetter = letters[i]
@@ -263,7 +263,7 @@ const createOverlayLetter = val => {
 const removePoolLetter = letter => {
   addClass(letter, 'invisible')
   setTimeout(() => {
-    removeChild($("#temp-letter"), letter)
+    removeChild($("#letter-pool"), letter)
   }, 500)
 }
 
@@ -282,7 +282,7 @@ const animateOverlayLetter = (letter, contentText, finalPos, isReceived) => {
   else{
     setElPosFromRight(overlayLetter, window.innerWidth - initPos.right, initPos.top)
   }
-  LETTER_OVERLAY.appendChild(overlayLetter)
+  $("#letter-overlay").appendChild(overlayLetter)
   setTimeout(() => {
     if(isReceived){
       setElPos(overlayLetter, finalPos.left, finalPos.top)
@@ -294,7 +294,7 @@ const animateOverlayLetter = (letter, contentText, finalPos, isReceived) => {
       removeClass(contentText, 'invisible')
       addClass(overlayLetter, 'invisible')
       setTimeout(() => {
-        removeChild(LETTER_OVERLAY, overlayLetter)
+        removeChild($("#letter-overlay"), overlayLetter)
       }, 1000)
     }, 1500)
   }, 100)
