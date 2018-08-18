@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>南开大学校训是什么</pattern>
+	<template>南开大学校训是允公允能，日新月异</template>
+</category>
+
+<category>
+	<pattern>南开大学理念是什么</pattern>
+	<template>南开大学理念是文以治国、理以强国、商以富国</template>
+</category>
+
+<category>
+	<pattern>南开大学传统是什么</pattern>
+	<template>南开大学传统是爱国、敬业、创新、乐群</template>
+</category>
+
+<category>
+	<pattern>南开大学宗旨是什么</pattern>
+	<template>南开大学宗旨是知中国，服务中国</template>
+</category>
+
+<category>
+	<pattern>南开是什么</pattern>
+	<template>南开是南开大学</template>
+</category>
+
+<category>
+	<pattern>NKU是什么</pattern>
+	<template>NKU是南开大学</template>
+</category>
+
+<category>
+	<pattern>南开大学法定住所是什么</pattern>
+	<template>南开大学法定住所是天津市南开区卫津路94号</template>
+</category>
+
+<category>
+	<pattern>南开大学八里台校区地点是什么</pattern>
+	<template>南开大学八里台校区地点是天津市南开区卫津路94号</template>
+</category>
+
+<category>
+	<pattern>南开大学津南校区地点是什么</pattern>
+	<template>南开大学津南校区地点是天津市津南区同砚路38号</template>
+</category>
+
+<category>
+	<pattern>南开大学泰达校区地点是什么</pattern>
+	<template>南开大学泰达校区地点是天津市滨海新区宏达街23号</template>
+</category>
+
+<category>
+	<pattern>南开大学目标是什么</pattern>
+	<template>南开大学目标是培养胸怀宽广、底蕴深厚、勤勉务实、追求卓越的高素质创新人才</template>
+</category>
+
+<category>
+	<pattern>南开大学管理体制是什么</pattern>
+	<template>南开大学管理体制是校、院两级管理体制</template>
+</category>
+
+<category>
+	<pattern>南开大学教职工权利是什么</pattern>
+	<template>南开大学教职工权利是（一）按工作职责和有关规定使用学校的公共资源；</template>
+</category>
+
+<category>
+	<pattern>南开大学教职工义务是什么</pattern>
+	<template>南开大学教职工义务是（一）遵守宪法、法律、法规和学校规章制度；（二）秉公尽能，认真履行岗位职责；（三）为人师表，恪守职业道德，遵守学术规范；</template>
+</category>
+
+<category>
+	<pattern>南开大学学生权利是什么</pattern>
+	<template>南开大学学生权利是（一）按学校规定自主选择专业、选修课程，参加教育教学计划安排的各项活动，使用教育教学资源；</template>
+</category>
+
+<category>
+	<pattern>南开大学学生义务是什么</pattern>
+	<template>南开大学学生义务是（一）遵守宪法、法律、法规和学校规章制度；</template>
+</category>
+
+<category>
+	<pattern>南开大学中文校名标识是什么</pattern>
+	<template>南开大学中文校名标识是毛泽东主席1950年手书“南开大学”字体</template>
+</category>
+
+<category>
+	<pattern>南开大学校徽是什么</pattern>
+	<template>南开大学校徽是包括徽志和徽章</template>
+</category>
+
+<category>
+	<pattern>南开大学徽章是什么</pattern>
+	<template>南开大学徽章是毛泽东主席手书校名的长方形证章，本科生用徽章为白底青莲紫字，研究生用徽章为青莲紫底白字，教师用徽章为青莲紫底银字</template>
+</category>
+
+<category>
+	<pattern>南开大学校歌是什么</pattern>
+	<template>南开大学校歌是《南开校歌》</template>
+</category>
+
+<category>
+	<pattern>南开大学校色是什么</pattern>
+	<template>南开大学校色是青莲紫，又名南开紫</template>
+</category>
+
+<category>
+	<pattern>南开紫是什么</pattern>
+	<template>南开紫是青莲紫R126，G12，B110</template>
+</category>
+
+<category>
+	<pattern>南开大学校庆日是什么</pattern>
+	<template>南开大学校庆日是10月17日</template>
+</category>
+
+<category>
+	<pattern>南开大学校庆时间是什么</pattern>
+	<template>南开大学校庆时间是10月17日</template>
+</category>
+
+<category>
+	<pattern>南开大学吉祥物是什么</pattern>
+	<template>南开大学吉祥物是暂时还没有</template>
+</category>
+
+<category>
+	<pattern>南开大学校服是什么</pattern>
+	<template>南开大学校服是暂时还没有</template>
+</category>
+
+
+</aiml>
