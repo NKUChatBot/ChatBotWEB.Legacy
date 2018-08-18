@@ -10,7 +10,7 @@ import os
 log = lambda x: float('-inf') if not x else math.log(x)
 prob = lambda x: d[x] if x in d else 0 if len(x)>1 else 1
 
-abs_path = os.path.split(os.path.realpath(__file__))[0]+'\\'
+abs_path = os.path.split(os.path.realpath(__file__))[0]+'/'
 d = {}
 
 def initi(filename=abs_path+'SogouLabDic.dic'):

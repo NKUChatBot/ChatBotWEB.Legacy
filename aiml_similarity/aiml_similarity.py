@@ -12,8 +12,8 @@ import os
 import time
 
 Kia=_Kernel.Kernel()
-abs_path=abs_path = os.path.split(os.path.realpath(__file__))[0]+'\\'
-path=abs_path+'data\\'
+abs_path=abs_path = os.path.split(os.path.realpath(__file__))[0]+'/'
+path=abs_path+'data/'
 questionlist=[]
 
 def toquestion(filename):

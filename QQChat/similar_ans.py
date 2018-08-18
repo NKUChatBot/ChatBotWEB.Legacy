@@ -13,7 +13,7 @@ import os
 
 QA=[]
 
-abs_path=os.path.split(os.path.realpath(__file__))[0]+'\\'
+abs_path=os.path.split(os.path.realpath(__file__))[0]+'/'
 
 stopword=[]
 punc={'.',',','?','？',':','。','+','-','，','^','……'}
