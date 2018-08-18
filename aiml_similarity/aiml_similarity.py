@@ -7,7 +7,8 @@ Created on Wed Aug  1 11:14:04 2018
 
 from .aimlch import _Kernel
 from lxml import etree
-from . import synonyms
+#from . import synonyms
+from .similars import fenci
 import os
 import time
 
@@ -40,7 +41,8 @@ def find_similarity(text):
     nearest_question=''
     for sent in questionlist:
         try:
-            r=synonyms.compare(sent,text,seg=True,ignore=True)
+            r=fenci.similarity(sent,text)
+            #r=synonyms.compare(sent,text,seg=True,ignore=True)
             if r>dis:
                 dis=r
                 nearest_question=sent

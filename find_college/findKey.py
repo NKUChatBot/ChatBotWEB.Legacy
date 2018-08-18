@@ -10,7 +10,7 @@ this_path = os.path.dirname(os.path.realpath(__file__))
 def find_college(sentence):
     jieba.load_userdict(os.path.join(this_path, "../scrap/college.txt"))
     combine_dict = {}
-    for line in open(os.path.join(this_path,"../scrap/synonyms.txt"), "r"):
+    for line in open(os.path.join(this_path,"../scrap/synonyms.txt"), "r",encoding='utf-8'):
         seperate_word = line.strip().split("\t")
         num = len(seperate_word)
         for i in range(1, num):
