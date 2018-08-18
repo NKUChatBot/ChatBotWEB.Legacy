@@ -24,9 +24,15 @@ from myapp import views
 urlpatterns = [
     # path('admin/', admin.site.urls),
     url(r'^index/' , views.index),
-    url(r"^bot/", views.main),
+    url(r"^bot/$", views.main),
     url(r'^$', views.starter),
     url(r'^ajax/ask/', views.get_answer)
 ]
 #设置静态文件路径
 urlpatterns += staticfiles_urlpatterns()
+
+
+from myapp import views
+
+handler404 = views.page_not_found
+handler500 = views.page_error
