@@ -34,7 +34,11 @@
           <entry key="html" value="10" />
           <entry key="iml" value="2" />
           <entry key="js" value="5" />
+<<<<<<< HEAD
           <entry key="py" value="46" />
+=======
+          <entry key="py" value="47" />
+>>>>>>> cj
           <entry key="scss" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -46,17 +50,21 @@
           <entry key="IDEA_MODULE" value="2" />
           <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="14" />
+<<<<<<< HEAD
           <entry key="Python" value="46" />
+=======
+          <entry key="Python" value="47" />
+>>>>>>> cj
           <entry key="SCSS" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Django Console" value="44" />
-          <entry key="aiml" value="145" />
+          <entry key="aiml" value="148" />
           <entry key="css" value="2" />
           <entry key="html" value="176" />
-          <entry key="py" value="1664" />
+          <entry key="py" value="1809" />
           <entry key="txt" value="55" />
         </counts>
       </usages-collector>
@@ -64,8 +72,8 @@
         <counts>
           <entry key="CSS" value="2" />
           <entry key="HTML" value="176" />
-          <entry key="PLAIN_TEXT" value="200" />
-          <entry key="Python" value="1708" />
+          <entry key="PLAIN_TEXT" value="203" />
+          <entry key="Python" value="1853" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -76,8 +84,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RunQA/RunQA.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="246">
               <caret line="23" column="68" lean-forward="true" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+=======
+            <state relative-caret-position="415">
+              <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
+>>>>>>> cj
               <folding>
                 <element signature="e#238#247#0" expanded="true" />
               </folding>
@@ -131,11 +144,11 @@
         <option value="$PROJECT_DIR$/scrap/synonyms.txt" />
         <option value="$PROJECT_DIR$/local_scrap/local_cc.aiml" />
         <option value="$PROJECT_DIR$/local_scrap/local_cs.aiml" />
-        <option value="$PROJECT_DIR$/local_scrap/who.aiml" />
         <option value="$PROJECT_DIR$/QQChat/similars/fenci.py" />
         <option value="$PROJECT_DIR$/QQChat/similar_ans.py" />
         <option value="$PROJECT_DIR$/aiml_similarity/synonyms/word2vec.py" />
         <option value="$PROJECT_DIR$/aiml_similarity/aiml_similarity.py" />
+        <option value="$PROJECT_DIR$/local_scrap/who.aiml" />
         <option value="$PROJECT_DIR$/RunQA/RunQA.py" />
       </list>
     </option>
@@ -399,21 +412,36 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1440" height="805" extended-state="0" />
+<<<<<<< HEAD
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+=======
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+>>>>>>> cj
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49499285" visible="true" weight="0.3015428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49427754" visible="true" weight="0.12482469" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.3997195" />
+>>>>>>> cj
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.30972818" weight="0.32959327" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49928468" weight="0.32959327" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50500715" side_tool="true" visible="true" weight="0.3015428" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50572246" side_tool="true" visible="true" weight="0.12482469" />
+>>>>>>> cj
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49356222" weight="0.32959327" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49713877" weight="0.32959327" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -658,24 +686,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QQChat/similars/fenci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/QQChat/similar_ans.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="75">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+=======
         <state relative-caret-position="96">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aiml_similarity/synonyms/word2vec.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
+          <caret line="9" column="74" lean-forward="true" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local_scrap/nk.aiml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_college/findKey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="e#71#83#0" expanded="true" />
+          </folding>
+>>>>>>> cj
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local_scrap/who.aiml">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="96">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+=======
+        <state relative-caret-position="368">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+>>>>>>> cj
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QQChat/similars/fenci.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="135">
           <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+=======
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+>>>>>>> cj
         </state>
       </provider>
     </entry>
@@ -686,6 +749,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/local_scrap/who.aiml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -693,6 +757,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> cj
     <entry file="file://$PROJECT_DIR$/aiml_similarity/aiml_similarity.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -700,11 +766,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local_scrap/nk.aiml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/../../nku_project/NKU-Q-A/WorkPlace/chenjie-de-WorkPlace/py3_who/search/teacher_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RunQA/RunQA.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="246">
           <caret line="23" column="68" lean-forward="true" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
           <folding>
@@ -725,6 +796,12 @@
           <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
           <folding>
             <element signature="e#71#83#0" expanded="true" />
+=======
+        <state relative-caret-position="415">
+          <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
+          <folding>
+            <element signature="e#238#247#0" expanded="true" />
+>>>>>>> cj
           </folding>
         </state>
       </provider>

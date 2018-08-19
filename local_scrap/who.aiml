@@ -19,14 +19,7 @@
 <category>
 <pattern>计控</pattern>
 <template>
-<input index="2"/>
-</template>
-</category>
-
-<category>
-<pattern>软件</pattern>
-<template>
-<input index="2"/>
+<input index="3"/>
 </template>
 </category>
 
