@@ -39,7 +39,7 @@ def similar_ans(question):
         print(answer)
         return answer
 
-    return None
+    return "妈妈还没有教我"
 
 def major(question) :
     ans=alice.respond(question)
@@ -55,11 +55,13 @@ def major(question) :
         return alice.respond("查找老师 "+name)
     else:
         str = ""
-        teacher=alice.respond(college[0])
-        print(college[0])
-        # print(college[1])
-        print(teacher)
-        teacher=teacher.replace("查 找 老 师 ","")
+        if not name:
+            teacher=alice.respond(college[0])
+            print(college[0])
+            print(teacher)
+            teacher=teacher.replace("查 找 老 师 ","")
+        else:
+            teacher=name
         for i in range(0,len(college)):
             str=str+alice.respond(college[i]+teacher)
             # print(str)
