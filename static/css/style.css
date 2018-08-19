@@ -25,7 +25,7 @@ html, body {
   overflow: hidden;
   width: 100%;
 }
-#chat-wrapper #chat-bot-mood {
+#chat-wrapper #chat-bot-mood-box {
   left: 0px;
   padding: 20px;
   position: absolute;
@@ -33,25 +33,25 @@ html, body {
   white-space: nowrap;
   z-index: 10;
 }
-#chat-wrapper #chat-bot-mood.friendly #chat-bot-mood-icon {
+#chat-wrapper #chat-bot-mood-box.friendly #chat-bot-mood-icon {
   background: linear-gradient(to right, #03a9f4, #4caf50);
 }
-#chat-wrapper #chat-bot-mood.friendly #chat-bot-mood-label #chat-bot-mood-value {
+#chat-wrapper #chat-bot-mood-box.friendly #chat-bot-mood-label #chat-bot-mood-value {
   color: #03a9f4;
 }
-#chat-wrapper #chat-bot-mood.confused #chat-bot-mood-icon {
+#chat-wrapper #chat-bot-mood-box.confused #chat-bot-mood-icon {
   background: linear-gradient(to right, #d32f2f, #ff6f00);
 }
-#chat-wrapper #chat-bot-mood.confused #chat-bot-mood-label #chat-bot-mood-value {
+#chat-wrapper #chat-bot-mood-box.confused #chat-bot-mood-label #chat-bot-mood-value {
   color: #d32f2f;
 }
-#chat-wrapper #chat-bot-mood.boastful #chat-bot-mood-icon {
+#chat-wrapper #chat-bot-mood-box.boastful #chat-bot-mood-icon {
   background: linear-gradient(to right, #ff6f00, #fbc02d);
 }
-#chat-wrapper #chat-bot-mood.boastful #chat-bot-mood-label #chat-bot-mood-value {
+#chat-wrapper #chat-bot-mood-box.boastful #chat-bot-mood-label #chat-bot-mood-value {
   color: #ff6f00;
 }
-#chat-wrapper #chat-bot-mood #chat-bot-mood-icon {
+#chat-wrapper #chat-bot-mood-box #chat-bot-mood-icon {
   border-radius: 30px;
   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
   display: inline-block;
@@ -60,7 +60,7 @@ html, body {
   vertical-align: top;
   width: 30px;
 }
-#chat-wrapper #chat-bot-mood #chat-bot-mood-label {
+#chat-wrapper #chat-bot-mood-box #chat-bot-mood-label {
   background-color: white;
   border-radius: 20px;
   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
@@ -70,7 +70,7 @@ html, body {
   padding: 5px 15px;
   vertical-align: top;
 }
-#chat-wrapper #chat-bot-mood #chat-bot-mood-label h1 {
+#chat-wrapper #chat-bot-mood-box #chat-bot-mood-label h1 {
   display: inline-block;
   font-size: 0.9em;
   font-weight: 300;
@@ -79,7 +79,7 @@ html, body {
   margin: 0px;
   vertical-align: top;
 }
-#chat-wrapper #chat-bot-mood #chat-bot-mood-label #chat-bot-mood-text {
+#chat-wrapper #chat-bot-mood-box #chat-bot-mood-label #chat-bot-mood-text {
   color: #3c3c3c;
 }
 #chat-wrapper #letter-pool, #chat-wrapper #temp-letter-pool {
