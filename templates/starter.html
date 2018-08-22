@@ -7,9 +7,11 @@
   
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 
-  
-      <link rel="stylesheet" href="../static/css/starter.css">
+{#     <script type="text/javascript" src="{% static "/js/starter.js" %}"></script>#}
+{#    <link rel="stylesheet" href="{% static "/css/starter.css" %}">#}
+    <link rel="stylesheet" href="/static/css/starter.css">
   <script type="text/javascript">
+
 function countDown(secs,surl){
  //alert(surl);
  var jumpTo = document.getElementById('jumpTo');
@@ -26,15 +28,6 @@ function countDown(secs,surl){
 </head>
 
 <body>
-
-  <!--
-
-Follow me on
-Dribbble: https://dribbble.com/supahfunk
-Twitter: https://twitter.com/supahfunk
-Codepen: https://codepen.io/supah/
-
--->
 
 <svg class="intro" viewbox="0 0 200 86">
   <text text-anchor="start" x="10" y="30" class="text text-stroke" clip-path="url(#text1)">NKU</text>
