@@ -144,7 +144,7 @@ def load():
     start=time.time()
     Generate_QA()
     end=time.time()
-    print("--QAPair大小:%d--\n--加载时间:%fs--"%(len(QA),end-start))
+    print("--QAPair大小:%d--\n--加载时间:%fs--\n\n"%(len(QA),end-start))
 
 def respond(question):
     return Get_Ans(question)
