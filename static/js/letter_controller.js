@@ -1,83 +1,68 @@
 
-function LetterController(cName, value) {
-    this.viewer = $('<div />', {'class':[cName, 'invisible'].join(' '), 'data-letter': value, 'html': value});
+function LetterController(value) {
+    this.viewer = $('<div />', {'class':['pool-letter', 'invisible'].join(' '), 'data-letter': value, 'html': value});
+    this.currentLetter = value;
     this.currentQuadrant = null;
+    this.currentPosition = {x:null, y:null};
     this.pathHandler = null;
 
-    this.transitionPeriod = 300000;
+    this.transitionPeriod = 30000;
     this.transitionDelay = 0;
-    this.getIntoBackground();
+    this.setRandTransition().setRandPosition(false).getIntoBackground();
 }
 
-LetterController.prototype.setPosition = function(point){
+LetterController.prototype.setPosition = function(point=this.currentPosition){
+    this.currentPosition = point;
     this.viewer.css('left', point.x + 'px');
     this.viewer.css('top', point.y + 'px');
     return this;
 };
 
-LetterController.prototype.setRandPostion = function(excludedSelf=false){
+LetterController.prototype.setRandPosition = function(excludedSelf=false){
     let self = this;
-    this.setPosition((function () {
-        self.currentQuadrant = excludedSelf ? (function(N){
-            return N + (N > self.currentQuadrant);
-        })(getRand(1,3)): getRand(1,4);
-        return getRandPosOffScreen(self.currentQuadrant);
-    })());
+    this.currentQuadrant = excludedSelf ? (function(N){
+        return N + (N > self.currentQuadrant);
+    })(getRand(1,3)): getRand(1,4);
+    this.setPosition(this.currentPosition = getRandPosOffScreen(self.currentQuadrant) );
     return this;
 };
 
 LetterController.prototype.setRandTransition = function(){
-    let self = this;
-    (function(period, delay){
-        self.viewer.css('transition', `left ${period}ms linear ${delay}ms,`
-            + `top ${period}ms linear ${delay}ms,` + "opacity 0.5s");
-    })(self.transitionPeriod, self.transitionDelay = getRand(0, this.transitionPeriod)*-1);
+    this.transitionDelay  = getRand(0, this.transitionPeriod)*(-1);
+    let delay = this.transitionDelay;
+    let period = this.transitionPeriod;
+    this.viewer.css('transition', `left ${period}ms linear ${delay}ms,`
+        + `top ${period}ms linear ${delay}ms,` + "opacity 0.5s");
     return this;
 };
 
 LetterController.prototype.startNewPath = function(){
     let self = this;
-    clearInterval(self.pathHandler);
-    self.setRandPostion(true).setRandTransition();
+    this.setRandTransition().setRandPosition(true);
 
-    self.pathHandler = setInterval(function () {
+    this.pathHandler = setTimeout(function () {
         self.startNewPath();
     }, self.transitionPeriod + self.transitionDelay);
     return this;
 };
 
-LetterController.prototype.gotoMessageBox = function(box){
-    let self = this;
-    this.quitFromBackground();
-    this.viewer = (function(origin) {
-        return $("<span />", {"class": ["overlay-letter", "in-flight"].join(" "),
-            "html":origin.html()}).appendTo("#letter-overlay");
-    })(this.viewer);
-
-    setTimeout(function () {
-        self.setPosition(box.get(0).getBoundingClientRect());
-        setTimeout(function () {
-            box.removeClass("invisible");
-            self.viewer.addClass("invisible");
-            setTimeout(function () {
-                self.viewer.remove();
-            }, 1000);
-        }, 1500);
-    }, 100);
-    return this;
-};
-
 LetterController.prototype.getIntoBackground = function(){
     $("#letter-pool").append(this.viewer);
+    letterPool.jumpIntoPool(this);
     return this;
 };
 
 LetterController.prototype.quitFromBackground = function(){
-    let self = this;
-    this.viewer.addClass('invisible');
-    setTimeout(function () {
-        self.viewer.remove();
-    }, 500);
+    letterPool.jumpOutPool(this);
+    this.viewer.remove();
+    clearInterval(this.pathHandler);
+    return this;
+};
+
+LetterController.prototype.transferToFlightMood = function () {
+    this.viewer = $("<span />", {"class": ["overlay-letter", "in-flight"].join(" "),
+        "html":this.currentLetter}).appendTo("#letter-overlay");
+    this.setPosition();
     clearInterval(this.pathHandler);
     return this;
 };

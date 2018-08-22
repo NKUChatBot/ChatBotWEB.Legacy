@@ -3,7 +3,7 @@ const $("#letter-pool") = getEl('letter-pool'),
       $("#letter-overlay") = getEl('letter-overlay'),
       CHAT_MESSAGE_COLUMN_WRAPPER = getEl('chat-message-column-wrapper'),
       CHAT_MESSAGE_COLUMN = getEl('chat-message-column'),
-      $("#message-input") = getEl('message-input'),
+      $("#message-input-box") = getEl('message-input-box'),
       $("#message-input-field") = getEl('message-input-field'),
       $("#chat-bot-mood-box") = getEl("chat-bot-mood-box"),
       $("#chat-bot-mood-value") = getEl('chat-bot-mood-value')
@@ -429,10 +429,10 @@ const resetLetterPool = () => {
 
 const toggleInput = () => {
   if(checkIfInputFieldHasVal() && canSendMessage()){
-    addClass($("#message-input"), 'send-enabled')
+    addClass($("#message-input-box"), 'send-enabled')
   }
   else{
-    removeClass($("#message-input"), 'send-enabled')
+    removeClass($("#message-input-box"), 'send-enabled')
   }
 }
 
@@ -459,7 +459,7 @@ const setMoodInterval = time => {
 
 $("#message-input-field").onkeypress = e => {
   if(checkIfInputFieldHasVal() && e.key === 'Enter'){
-    removeClass($("#message-input"), 'send-enabled')
+    removeClass($("#message-input-box"), 'send-enabled')
     if(canSendMessage()){
       onEnterPress(e)
     }

@@ -8,11 +8,11 @@ MessageSender.prototype.askChatbot = function(){
     let self = this;
     $.ajax({
         url: "/ajax/ask/", type: "POST", dataType: "json", async:false,
-        data: {"input": self.QUESTION}
-    })
-        .done(function(data){self.ANSWER = data;})
-        .fail(function(){self.ANSWER = "Sorry QA program fail!"});
-    return this.ANSWER;
+        data: {"input": self.QUESTION},
+        success:function(res){self.ANSWER = res;},
+        error:function(){self.ANSWER = "Sorry QA program fail!"}
+    });
+    return this;
 };
 
 MessageSender.prototype.getChatbotGreet = function(greetingType){
@@ -27,20 +27,14 @@ MessageSender.prototype.getChatbotGreet = function(greetingType){
 };
 
 MessageSender.prototype.sendUserMessage = function () {
-    let sender = new MessageViewer(this.QUESTION);
-    sender.createChatMessage().addChatMessage();
-    setTimeout(function () {
-        //toggleInput();
-    }, 4000);
+    let viewer = new MessageViewer(this.QUESTION);
+    viewer.createChatMessage().addChatMessage();
     return this;
 };
 
 MessageSender.prototype.sendChatbotMessage = function () {
     let viewer = new MessageViewer(this.ANSWER, chatbot.CurrentMood);
     viewer.createChatMessage().addChatMessage();
-    setTimeout(function () {
-        //toggleInput();
-    }, 4000);
     return this;
 };
 

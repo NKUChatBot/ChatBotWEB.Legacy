@@ -14,7 +14,7 @@ MessageViewer.prototype.createChatMessage = function(){
     $('<i />',{'class':['fab', this.Mood ? 'fa-cloud' : 'fa-user'].join(' ')}).appendTo(this.profileIcon);
 
     this.MessageBox = $('<div />', {'class':['content', 'invisible'].join(' ')});
-    this.textContainer = $('<h1 />', {'class':['text', 'invisible'].join(' ')});
+    this.textContainer = $('<h1 />', {'class':['text', 'invisible'].join(" ")}).appendTo(this.MessageBox);
     this.messageText.split('').forEach(function (char) {
         $('<span/>',{html:char, 'data-letter':char}).appendTo(self.textContainer);
     });
@@ -25,12 +25,10 @@ MessageViewer.prototype.createChatMessage = function(){
 MessageViewer.prototype.addChatMessage = function(){
     let self = this;
     $('#chat-message-column').append(this.message);
-    //toggleInput();
     setTimeout(function(){
         self.profileIcon.removeClass('invisible') && setTimeout(function () {
             self.MessageBox.removeClass('invisible') && setTimeout(function () {
-                self.animateMessageLetters(letterPool);
-                setTimeout(function () {
+                self.getLetterFromPool() && setTimeout(function () {
                     letterPool.replenishLetterPool();
                 }, 2500);
             }, 1000);
@@ -39,13 +37,18 @@ MessageViewer.prototype.addChatMessage = function(){
     return this;
 };
 
-MessageViewer.prototype.animateMessageLetters = function () {
+MessageViewer.prototype.getLetterFromPool = function () {
     let self = this;
-    this.textContainer.children('span').each(function (index, span) {
-        let targetLetter = letterPool.findLetterInPool($(span).data("letter"));
-        targetLetter ? targetLetter.gotoMessageBox(self.MessageBox) : (function () {
-            let temp = new LetterController('temp-letter', $(span).data("letter"));
-            temp.setRandPostion().gotoMessageBox(self.MessageBox);
-        })();
-    })
+    self.textContainer.children().each(function (index, item) {
+        let target = letterPool.findLetterInPool($(item).data("letter"))
+            .transferToFlightMood().setPosition(item.getBoundingClientRect());
+
+        self.MessageBox.removeClass("invisible") && setTimeout(function () {
+            self.textContainer.removeClass('invisible');
+            setTimeout(function () {
+                target.quitFromBackground();
+            }, 1000);
+        }, 1500);
+    });
+    return this;
 };

@@ -1,22 +1,22 @@
 
 function TypingListener() {
-    this.input = $("#message-input");
+    this.box = $("#message-input-box");
     this.field = $("#message-input-field");
+    this.button = $("#send-message-button");
     this.InvalidKey = ['Enter', 8, 9, 13];
 }
 
-TypingListener.prototype.checkIfInputFieldHasVal = function () {
-    return this.field.value.length > 0;
-};
 
-TypingListener.prototype.disableInputField = function () {
+TypingListener.prototype.disableInput = function () {
+    this.box.removeClass("send-enable");
     this.field.blur();
-    this.field.value = "";
+    this.field.val("");
     this.field.readOnly = true;
     return this;
 };
 
-TypingListener.prototype.enableInputField = function () {
+TypingListener.prototype.enableInput = function () {
+    this.box.addClass("send-enable");
     this.field.readOnly = false;
     this.field.focus();
     return this;
@@ -26,23 +26,31 @@ TypingListener.prototype.isValidLetter = function (e) {
     return !(e.ctrlKey || this.InvalidKey.includes(e.key));
 };
 
-TypingListener.prototype.startListen = function(chatbot){
+TypingListener.prototype.startAsking = function () {
     let self = this;
-    this.field.onkeypress = function (e) {
-        e.key === 'Enter' && (function () {
-            self.input.removeClass('send-enabled');
+    let sender = new MessageSender(this.field.val());
+    this.disableInput();
 
-            let sender = new MessageSender(self.field.value);
-            self.field.value = "";
-            sender.sendUserMessage();
-            setTimeout(function () {
-                sender.askChatbot();
-                sender.sendChatbotMessage(chatbot.CurrentMood);
-            }, 4000);
+    sender.sendUserMessage().askChatbot();
+    setTimeout(function () {
+        sender.sendChatbotMessage(chatbot.CurrentMood);
+        self.enableInput();
+    }, 4000);
+};
 
-            self.input.addClass("send-enabled");
-        })();
-    };
+TypingListener.prototype.startListen = function(){
+    let self = this;
+
+    this.field.on("keypress", function (e) {
+        if(e.key === 'Enter'){ self.startAsking();}
+    });
+
+    this.button.on("click", function () { self.startAsking();});
+
+    window.onfocus = function () { letterPool.resetPoolLetter();};
+
+    window.onresize = function () { letterPool.resetPoolLetter();};
+
     return this;
 };
 

@@ -28,7 +28,7 @@ ChatbotManager.prototype.applyToDOM = function(){
 };
 
 ChatbotManager.prototype.startRandMood = function(){
-    var self = this;
+    let self = this;
     this.intervalHandler = setTimeout(function () {
         self.getRandMood() && self.startRandMood();
     }, getRand(this.minInterval, this.maxInterval));
