@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" >
+{#<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">#}
+{#<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>#}
+<head>
+  <meta charset="UTF-8">
+  <title>NKU_Chatbot</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400" rel="stylesheet">
+ 
+  <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.0.1/css/all.css'>
+  <link rel="stylesheet" href="../static/css/style.css">
+</head>
+
+<body>
+<div id="chat-wrapper">
+  <div id="chat-bot-mood-box">
+    <div id="chat-bot-mood-icon"></div>
+    <div id="chat-bot-mood-label">
+      <h1 id="chat-bot-mood-text">Chatbot is feeling</h1>
+      <h1 id="chat-bot-mood-value">Mood</h1>
+    </div>
+  </div>
+  <div id="letter-pool"></div>
+  <div id="temp-letter-pool"></div>
+  <div id="letter-overlay"></div>
+{#  {% if state == 0 %}#}
+    <div id="chat-message-window">
+      <div id="message-input-wrapper">
+        <div id="message-input-box">
+          <input id="message-input-field" type="text" placeholder="Type a message" maxlength="100"/>
+          <div id="send-message-button"><i class="far fa-arrow-alt-circle-right"></i></div>
+        </div>
+      </div>
+      <div class="scroll-bar" id="chat-message-column-wrapper">
+        <div class="static" id="chat-message-column"></div>
+      </div>
+    </div>
+{#  {% elif state == 1 %}#}
+{#    <form action="insert/" method="POST">#}
+{#      <input type="text" class="input is-info is-rounded" value="qquestion" id="Question">#}
+{#      <input type="submit" value="提交" />#}
+{#    </form>#}
+{#  {% endif %}#}
+</div>
+
+<script src='../static/js/0299c8b36352c72cbfe8df48b.js'></script>
+<script src="../static/js/jquery-3.3.1.min.js"></script>
+
+<script  src="../static/js/letter_controller.js"></script>
+<script  src="../static/js/pool_manager.js"></script>
+<script  src="../static/js/chatbot_manager.js"></script>
+<script  src="../static/js/message_viewer.js"></script>
+<script  src="../static/js/message_sender.js"></script>
+<script  src="../static/js/typing_listener.js"></script>
+
+
+</body>
+
+</html>
