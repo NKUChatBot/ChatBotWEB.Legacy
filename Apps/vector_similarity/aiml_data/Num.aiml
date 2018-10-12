@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>南开大学总面积有多少</pattern>
+	<template>南开大学总面积有45.19万平方米</template>
+</category>
+
+
+<category>
+	<pattern>南开大学面积有多少</pattern>
+	<template>南开大学总面积有45.19万平方米</template>
+</category>
+
+<category>
+	<pattern>南开大学八里台校区面积有多少</pattern>
+	<template>南开大学八里台校区面积有122.50万平方米</template>
+</category>
+
+<category>
+	<pattern>南开大学津南校区面积有多少</pattern>
+	<template>南开大学津南校区面积有245.89万平方米</template>
+</category>
+
+<category>
+	<pattern>南开大学泰达学院面积有多少</pattern>
+	<template>南开大学泰达学院面积有6.72万平方米</template>
+</category>
+
+<category>
+	<pattern>南开大学校舍建筑总面积面积有多少</pattern>
+	<template>南开大学校舍建筑总面积面积有194.00万平方米</template>
+</category>
+
+<category>
+	<pattern>南开大学专业学院有多少</pattern>
+	<template>南开大学专业学院有26个</template>
+</category>
+
+<category>
+	<pattern>南开大学本科专业有多少</pattern>
+	<template>南开大学本科专业有86个</template>
+</category>
+
+<category>
+	<pattern>南开大学中国家级特色专业有多少</pattern>
+	<template>南开大学中国家级特色专业有18个</template>
+</category>
+
+<category>
+	<pattern>南开大学硕士学位授权一级学科有多少</pattern>
+	<template>南开大学硕士学位授权一级学科有12个</template>
+</category>
+
+<category>
+	<pattern>南开大学二级博士点有多少</pattern>
+	<template>南开大学二级博士点有1个</template>
+</category>
+
+<category>
+	<pattern>南开大学博士后科研流动站有多少</pattern>
+	<template>南开大学博士后科研流动站有28个</template>
+</category>
+
+<category>
+	<pattern>南开大学国家“双一流”建设学科有多少</pattern>
+	<template>南开大学国家“双一流”建设学科有5个</template>
+</category>
+
+<category>
+	<pattern>南开大学一级学科国家重点学科有多少</pattern>
+	<template>南开大学一级学科国家重点学科有6个</template>
+</category>
+
+<category>
+	<pattern>南开大学二级学科国家重点学科有多少</pattern>
+	<template>南开大学二级学科国家重点学科有35个</template>
+</category>
+
+<category>
+	<pattern>南开大学二级学科国家重点学科有多少</pattern>
+	<template>南开大学二级学科国家重点学科有9个</template>
+</category>
+
+<category>
+	<pattern>南开大学一级学科天津市重点学科有多少</pattern>
+	<template>南开大学一级学科天津市重点学科有32个</template>
+</category>
+
+<category>
+	<pattern>南开大学国家重点实验室有多少</pattern>
+	<template>南开大学国家重点实验室有2个</template>
+</category>
+
+<category>
+	<pattern>南开大学国家工程研究中心有多少</pattern>
+	<template>南开大学国家工程研究中心有1个</template>
+</category>
+
+<category>
+	<pattern>南开大学2011协同创新中心有多少</pattern>
+	<template>南开大学2011协同创新中心有3个</template>
+</category>
+
+<category>
+	<pattern>南开大学教育部重点实验室有多少</pattern>
+	<template>南开大学教育部重点实验室有7个</template>
+</category>
+
+<category>
+	<pattern>南开大学教育部工程研究中心有多少</pattern>
+	<template>南开大学教育部工程研究中心有3个</template>
+</category>
+
+<category>
+	<pattern>南开大学教育部国际合作联合实验室有多少</pattern>
+	<template>南开大学教育部国际合作联合实验室有2个</template>
+</category>
+
+<category>
+	<pattern>南开大学生态环境部重点实验室有多少</pattern>
+	<template>南开大学生态环境部重点实验室有1个</template>
+</category>
+
+<category>
+	<pattern>南开大学国家环保总局重点实验室有多少</pattern>
+	<template>南开大学国家环保总局重点实验室有1个</template>
+</category>
+
+<category>
+	<pattern>南开大学国家级实验教学示范中心有多少</pattern>
+	<template>南开大学国家级实验教学示范中心有5个</template>
+</category>
+
+<category>
+	<pattern>南开大学国家级虚拟仿真实验教学中心有多少</pattern>
+	<template>南开大学国家级虚拟仿真实验教学中心有2个</template>
+</category>
+
+<category>
+	<pattern>南开大学国家基础学科人才培养和科学研究基地有多少</pattern>
+	<template>南开大学国家基础学科人才培养和科学研究基地有9个</template>
+</category>
+
+<category>
+	<pattern>南开大学国家大学生文化素质教育基地有多少</pattern>
+	<template>南开大学国家大学生文化素质教育基地有1个</template>
+</category>
+
+<category>
+	<pattern>南开大学全国高校人文社会科学重点研究基地有多少</pattern>
+	<template>南开大学全国高校人文社会科学重点研究基地有7个</template>
+</category>
+
+<category>
+	<pattern>南开大学国家外专局“111”创新引智基地有多少</pattern>
+	<template>南开大学国家外专局“111”创新引智基地有8个</template>
+</category>
+
+<category>
+	<pattern>南开大学国家创新人才培养示范基地有多少</pattern>
+	<template>南开大学国家创新人才培养示范基地有1个</template>
+</category>
+
+<category>
+	<pattern>南开大学示范性国家国际科技合作基地有多少</pattern>
+	<template>南开大学示范性国家国际科技合作基地有4个</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市重点实验室有多少</pattern>
+	<template>南开大学天津市重点实验室有14个</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市工程技术中心有多少</pattern>
+	<template>南开大学天津市工程技术中心有4个</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市普通高等学校实验教学示范中心有多少</pattern>
+	<template>南开大学天津市普通高等学校实验教学示范中心有6个</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市普通高等学校实验教学示范中心建设单位有多少</pattern>
+	<template>南开大学天津市普通高等学校实验教学示范中心建设单位有3个</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市国际科技合作基地有多少</pattern>
+	<template>南开大学天津市国际科技合作基地有17个</template>
+</category>
+
+<category>
+	<pattern>南开大学专任教师有多少</pattern>
+	<template>南开大学专任教师有2046人</template>
+</category>
+
+<category>
+	<pattern>南开大学博士生导师有多少</pattern>
+	<template>南开大学博士生导师有774人</template>
+</category>
+
+<category>
+	<pattern>南开大学硕士生导师有多少</pattern>
+	<template>南开大学硕士生导师有865人</template>
+</category>
+
+<category>
+	<pattern>南开大学教授有多少</pattern>
+	<template>南开大学教授有782人</template>
+</category>
+
+<category>
+	<pattern>南开大学副教授有多少</pattern>
+	<template>南开大学副教授有825人</template>
+</category>
+
+<category>
+	<pattern>南开大学中国科学院院士有多少</pattern>
+	<template>南开大学中国科学院院士有10人</template>
+</category>
+
+<category>
+	<pattern>南开大学中国工程院院士有多少</pattern>
+	<template>南开大学中国工程院院士有2人</template>
+</category>
+
+<category>
+	<pattern>南开大学发展中国家科学院院士有多少</pattern>
+	<template>南开大学发展中国家科学院院士有6人</template>
+</category>
+
+<category>
+	<pattern>南开大学国家“千人计划”入选者有多少</pattern>
+	<template>南开大学国家“千人计划”入选者有17人</template>
+</category>
+
+<category>
+	<pattern>南开大学“千人计划”青年项目入选者有多少</pattern>
+	<template>南开大学“千人计划”青年项目入选者有39人</template>
+</category>
+
+<category>
+	<pattern>南开大学国家“万人计划”领军人才有多少</pattern>
+	<template>南开大学国家“万人计划”领军人才有18人</template>
+</category>
+
+<category>
+	<pattern>南开大学青年拔尖人才有多少</pattern>
+	<template>南开大学青年拔尖人才有8人</template>
+</category>
+
+<category>
+	<pattern>南开大学国家级有突出贡献的专家有多少</pattern>
+	<template>南开大学国家级有突出贡献的专家有16人</template>
+</category>
+
+<category>
+	<pattern>南开大学国家“百千万人才工程”入选者有多少</pattern>
+	<template>南开大学国家“百千万人才工程”入选者有25人</template>
+</category>
+
+<category>
+	<pattern>南开大学国务院学位委员会学科评议组成员有多少</pattern>
+	<template>南开大学国务院学位委员会学科评议组成员有14人</template>
+</category>
+
+<category>
+	<pattern>南开大学“马克思主义理论研究和建设工程”首席专家有多少</pattern>
+	<template>南开大学“马克思主义理论研究和建设工程”首席专家有11人</template>
+</category>
+
+<category>
+	<pattern>南开大学主要成员有多少</pattern>
+	<template>南开大学主要成员有29人</template>
+</category>
+
+<category>
+	<pattern>南开大学“973”和“863”首席科学家有多少</pattern>
+	<template>南开大学“973”和“863”首席科学家有18人次</template>
+</category>
+
+<category>
+	<pattern>南开大学国家重点研发计划项目负责人有多少</pattern>
+	<template>南开大学国家重点研发计划项目负责人有7人</template>
+</category>
+
+<category>
+	<pattern>南开大学教育部“长江学者奖励计划”特聘教授有多少</pattern>
+	<template>南开大学教育部“长江学者奖励计划”特聘教授有42人</template>
+</category>
+
+<category>
+	<pattern>南开大学讲座教授有多少</pattern>
+	<template>南开大学讲座教授有16人</template>
+</category>
+
+<category>
+	<pattern>南开大学青年学者有多少</pattern>
+	<template>南开大学青年学者有10人</template>
+</category>
+
+<category>
+	<pattern>南开大学“长江学者与创新团队发展计划”创新团队带头人有多少</pattern>
+	<template>南开大学“长江学者与创新团队发展计划”创新团队带头人有12人</template>
+</category>
+
+<category>
+	<pattern>南开大学“国家杰出青年科学基金”获得者有多少</pattern>
+	<template>南开大学“国家杰出青年科学基金”获得者有48人</template>
+</category>
+
+<category>
+	<pattern>南开大学“国家优秀青年科学基金”获得者有多少</pattern>
+	<template>南开大学“国家优秀青年科学基金”获得者有28人</template>
+</category>
+
+<category>
+	<pattern>南开大学教育部“跨世纪人才基金”获得者有多少</pattern>
+	<template>南开大学教育部“跨世纪人才基金”获得者有21人</template>
+</category>
+
+<category>
+	<pattern>南开大学“新世纪优秀人才支持计划”入选者有多少</pattern>
+	<template>南开大学“新世纪优秀人才支持计划”入选者有164人</template>
+</category>
+
+<category>
+	<pattern>南开大学“高校青年教师奖”获得者有多少</pattern>
+	<template>南开大学“高校青年教师奖”获得者有8人</template>
+</category>
+
+<category>
+	<pattern>南开大学国家级教学团队有多少</pattern>
+	<template>南开大学国家级教学团队有9个</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市杰出人才有多少</pattern>
+	<template>南开大学天津市杰出人才有5人</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市“千人计划”入选者有多少</pattern>
+	<template>南开大学天津市“千人计划”入选者有121人</template>
+</category>
+
+<category>
+	<pattern>南开大学“千人计划”青年项目入选者有多少</pattern>
+	<template>南开大学“千人计划”青年项目入选者有100人</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市“人才发展特殊支持计划”领军人才有多少</pattern>
+	<template>南开大学天津市“人才发展特殊支持计划”领军人才有3人</template>
+</category>
+
+<category>
+	<pattern>南开大学青年拔尖人才有多少</pattern>
+	<template>南开大学青年拔尖人才有10人</template>
+</category>
+
+<category>
+	<pattern>南开大学高层次创新创业团队带头人有多少</pattern>
+	<template>南开大学高层次创新创业团队带头人有5人</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市“131”创新人才培养工程第一层次人选有多少</pattern>
+	<template>南开大学天津市“131”创新人才培养工程第一层次人选有55人</template>
+</category>
+
+<category>
+	<pattern>南开大学创新型人才团队带头人有多少</pattern>
+	<template>南开大学创新型人才团队带头人有12人</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市级教学名师奖获得者有多少</pattern>
+	<template>南开大学天津市级教学名师奖获得者有33人</template>
+</category>
+
+<category>
+	<pattern>南开大学天津市级教学团队有多少</pattern>
+	<template>南开大学天津市级教学团队有12个</template>
+</category>
+
+<category>
+	<pattern>南开大学全日制在校学生有多少</pattern>
+	<template>南开大学全日制在校学生有26568人</template>
+</category>
+
+<category>
+	<pattern>南开大学本科生有多少</pattern>
+	<template>南开大学本科生有15120人</template>
+</category>
+
+<category>
+	<pattern>南开大学硕士研究生有多少</pattern>
+	<template>南开大学硕士研究生有8065人</template>
+</category>
+
+<category>
+	<pattern>南开大学博士研究生有多少</pattern>
+	<template>南开大学博士研究生有3383人</template>
+</category>
+
+<category>
+	<pattern>南开大学网络专科学生有多少</pattern>
+	<template>南开大学网络专科学生有71701人</template>
+</category>
+
+<category>
+	<pattern>南开大学网络本科学生有多少</pattern>
+	<template>南开大学网络本科学生有45451人</template>
+</category>
+
+<category>
+	<pattern>南开大学国家自然科学二等奖有多少</pattern>
+	<template>南开大学国家自然科学二等奖有3项</template>
+</category>
+
+<category>
+	<pattern>南开大学国家科技进步二等奖有多少</pattern>
+	<template>南开大学国家科技进步二等奖有1项</template>
+</category>
+
+<category>
+	<pattern>南开大学国家技术发明二等奖有多少</pattern>
+	<template>南开大学国家技术发明二等奖有1项</template>
+</category>
+
+<category>
+	<pattern>南开大学国家教学成果奖有多少</pattern>
+	<template>南开大学国家教学成果奖有9项</template>
+</category>
+
+
+<category>
+	<pattern>南开大学中国专利优秀奖有多少</pattern>
+	<template>南开大学中国专利优秀奖有1项</template>
+</category>
+
+<category>
+	<pattern>南开大学中国青年科技奖有多少</pattern>
+	<template>南开大学中国青年科技奖有2项</template>
+</category>
+
+<category>
+	<pattern>南开大学全国百篇优秀博士论文入选有多少</pattern>
+	<template>南开大学全国百篇优秀博士论文入选有20篇</template>
+</category>
+
+<category>
+	<pattern>南开大学2017年度天津市科学技术奖有多少</pattern>
+	<template>南开大学2017年度天津市科学技术奖有9项</template>
+</category>
+
+<category>
+	<pattern>南开大学教育部2017年度高等学校科学研究优秀成果奖(科学技术)奖励有多少</pattern>
+	<template>南开大学教育部2017年度高等学校科学研究优秀成果奖(科学技术)奖励有2项</template>
+</category>
+
+<category>
+	<pattern>南开大学2017年天津市专利奖有多少</pattern>
+	<template>南开大学2017年天津市专利奖有2项</template>
+</category>
+
+<category>
+	<pattern>南开大学2017年度中国产学研合作创新成果一等奖有多少</pattern>
+	<template>南开大学2017年度中国产学研合作创新成果一等奖有1项</template>
+</category>
+
+<category>
+	<pattern>南开大学2017年中国产学研合作创新奖(个人)有多少</pattern>
+	<template>南开大学2017年中国产学研合作创新奖(个人)有2人</template>
+</category>
+
+<category>
+	<pattern>南开大学上一统计年度我校SCI收录论文有多少</pattern>
+	<template>南开大学上一统计年度我校SCI收录论文有1392篇</template>
+</category>
+
+<category>
+	<pattern>南开大学上一统计年度我校SCI收录论文全国高校排名有多少</pattern>
+	<template>南开大学上一统计年度我校SCI收录论文全国高校排名有48位</template>
+</category>
+
+<category>
+	<pattern>南开大学EI收录论文数有多少</pattern>
+	<template>南开大学EI收录论文数有817篇</template>
+</category>
+
+<category>
+	<pattern>南开大学EI收录论文数全国高校排名有多少</pattern>
+	<template>南开大学EI收录论文数全国高校排名有第59位</template>
+</category>
+
+<category>
+	<pattern>南开大学CSSCI来源期刊论文有多少</pattern>
+	<template>南开大学CSSCI来源期刊论文有1297篇</template>
+</category>
+
+<category>
+	<pattern>南开大学SSCI收录论文有多少</pattern>
+	<template>南开大学SSCI收录论文有39篇</template>
+</category>
+
+<category>
+	<pattern>南开大学近十年南开大学SCI论文累计被引用篇数有多少</pattern>
+	<template>南开大学近十年南开大学SCI论文累计被引用篇数有12564篇</template>
+</category>
+
+<category>
+	<pattern>南开大学近十年南开大学SCI论文累计被引用次数有多少</pattern>
+	<template>南开大学近十年南开大学SCI论文累计被引用次数有210847次</template>
+</category>
+
+<category>
+	<pattern>南开大学被引用次数在全国高校中排名有多少</pattern>
+	<template>南开大学被引用次数在全国高校中排名有第15位</template>
+</category>
+
+<category>
+	<pattern>南开大学篇均被引用次数有多少</pattern>
+	<template>南开大学篇均被引用次数有16.78次</template>
+</category>
+
+<category>
+	<pattern>南开大学篇均被引用次数在全国累计被引用次数较多的高校中有多少</pattern>
+	<template>南开大学篇均被引用次数在全国累计被引用次数较多的高校中有第一。</template>
+</category>
+
+
+</aiml>
